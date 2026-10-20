@@ -1,0 +1,74 @@
+[
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\-3_jpg.rf.49f44c7fb8a0ff43f74466e27267e443.jpg",
+    "probability_injured": 0.9974,
+    "predicted_label": "injured",
+    "is_injured": true,
+    "decision_threshold": 0.5,
+    "logit": 5.9368
+  },
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\-4_jpg.rf.5baaf883b4fd33339f439975d14140c2.jpg",
+    "probability_injured": 0.9921,
+    "predicted_label": "injured",
+    "is_injured": true,
+    "decision_threshold": 0.5,
+    "logit": 4.8355
+  },
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\-_jpg.rf.673929fb0fd16cc97ebad8508bde3db9.jpg",
+    "probability_injured": 0.9447,
+    "predicted_label": "injured",
+    "is_injured": true,
+    "decision_threshold": 0.5,
+    "logit": 2.8379
+  },
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\-_jpg.rf.6868221aa46168b304f44c90afe98123.jpg",
+    "probability_injured": 0.9981,
+    "predicted_label": "injured",
+    "is_injured": true,
+    "decision_threshold": 0.5,
+    "logit": 6.2722
+  },
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\0-1-_jpg.rf.cb67498b36799aebd681535bbd962522.jpg",
+    "probability_injured": 0.1826,
+    "predicted_label": "healthy",
+    "is_injured": false,
+    "decision_threshold": 0.5,
+    "logit": -1.4989
+  },
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\1653319072_jpeg.rf.0089227ca8d3a0ba1a804775d8ecd480.jpg",
+    "probability_injured": 0.9894,
+    "predicted_label": "injured",
+    "is_injured": true,
+    "decision_threshold": 0.5,
+    "logit": 4.5344
+  },
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\cat-5-_png.rf.2d0e03b4bab14db78d4c8914cbc45140.jpg",
+    "probability_injured": 0.9971,
+    "predicted_label": "injured",
+    "is_injured": true,
+    "decision_threshold": 0.5,
+    "logit": 5.8334
+  },
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\e7461275_jpg.rf.0678aca10d62cb31e51499e6536fcc0e.jpg",
+    "probability_injured": 0.8297,
+    "predicted_label": "injured",
+    "is_injured": true,
+    "decision_threshold": 0.5,
+    "logit": 1.5838
+  },
+  {
+    "image_path": "Major\\injuries\\test\\injuries\\R3_jpg.rf.435266c71aa53169af00a844e2e3ccaf.jpg",
+    "probability_injured": 0.999,
+    "predicted_label": "injured",
+    "is_injured": true,
+    "decision_threshold": 0.5,
+    "logit": 6.9346
+  }
+]

@@ -1,0 +1,27 @@
+{
+  "original_splits": {
+    "train_samples": 576,
+    "val_samples": 148,
+    "test_samples": 78,
+    "train_distinct_subjects": 334,
+    "val_distinct_subjects": 126,
+    "test_distinct_subjects": 73,
+    "train_val_overlap_count": 87,
+    "train_test_overlap_count": 47,
+    "val_test_overlap_count": 16
+  },
+  "leakage_resistant_grouped_splits": {
+    "train_samples": 547,
+    "val_samples": 122,
+    "test_samples": 133,
+    "train_healthy": 469,
+    "train_injured": 78,
+    "val_healthy": 107,
+    "val_injured": 15,
+    "test_healthy": 124,
+    "test_injured": 9,
+    "train_val_overlap_count": 0,
+    "train_test_overlap_count": 0,
+    "val_test_overlap_count": 0
+  }
+}

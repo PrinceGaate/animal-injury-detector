@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "animal-injury-detector"
+version = "1.0.0"
+description = "Veterinary triage and animal injury computer vision detection system"
+readme = "README.md"
+authors = [{ name = "Animal Injury Detector Contributors" }]
+license = { text = "MIT" }
+requires-python = ">=3.9"
+dependencies = [
+    "torch>=2.0.0",
+    "torchvision>=0.15.0",
+    "scikit-learn>=1.2.0",
+    "tqdm>=4.65.0",
+    "Pillow>=9.5.0",
+    "numpy>=1.24.0",
+]
+
+[project.scripts]
+animal-infer = "animal_injury_detector.infer:main"
+animal-train = "animal_injury_detector.train:main"
+animal-eval = "animal_injury_detector.evaluate:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

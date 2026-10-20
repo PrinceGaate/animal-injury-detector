@@ -1,0 +1,93 @@
+{
+  "evaluation_protocol": "strictly_group_disjoint",
+  "random_seed": 42,
+  "dataset_split_counts": {
+    "train_samples": 547,
+    "train_healthy": 469,
+    "train_injured": 78,
+    "val_samples": 122,
+    "val_healthy": 107,
+    "val_injured": 15,
+    "test_samples": 133,
+    "test_healthy": 124,
+    "test_injured": 9
+  },
+  "model_architecture": "resnet18",
+  "loss_type": "weighted_bce",
+  "trained_epochs": 2,
+  "validation_selected_threshold": 0.73,
+  "validation_best_f1": 1.0,
+  "test_results_default_threshold_0.5": {
+    "total_samples": 133,
+    "healthy_count": 124,
+    "injured_count": 9,
+    "decision_threshold": 0.5,
+    "recall_injured": 0.8889,
+    "false_negatives": 1,
+    "false_negative_rate": 0.1111,
+    "precision": 0.4,
+    "false_positives": 12,
+    "false_positive_rate": 0.0968,
+    "f1_score": 0.5517,
+    "balanced_accuracy": 0.8961,
+    "accuracy": 0.9023,
+    "specificity_healthy": 0.9032,
+    "brier_score": 0.0748,
+    "roc_auc": 0.9462,
+    "pr_auc": 0.9034,
+    "confusion_matrix": {
+      "true_positives": 8,
+      "false_negatives": 1,
+      "false_positives": 12,
+      "true_negatives": 112
+    },
+    "loss": 0.268148,
+    "warning": "Dataset has only 9 injured samples. Metrics (particularly recall and false negatives) carry substantial statistical uncertainty."
+  },
+  "test_results_calibrated_threshold": {
+    "total_samples": 133,
+    "healthy_count": 124,
+    "injured_count": 9,
+    "decision_threshold": 0.73,
+    "recall_injured": 0.8889,
+    "false_negatives": 1,
+    "false_negative_rate": 0.1111,
+    "precision": 0.8,
+    "false_positives": 2,
+    "false_positive_rate": 0.0161,
+    "f1_score": 0.8421,
+    "balanced_accuracy": 0.9364,
+    "accuracy": 0.9774,
+    "specificity_healthy": 0.9839,
+    "brier_score": 0.0748,
+    "roc_auc": 0.9462,
+    "pr_auc": 0.9034,
+    "confusion_matrix": {
+      "true_positives": 8,
+      "false_negatives": 1,
+      "false_positives": 2,
+      "true_negatives": 122
+    },
+    "loss": 0.268148,
+    "warning": "Dataset has only 9 injured samples. Metrics (particularly recall and false negatives) carry substantial statistical uncertainty.",
+    "wilson_95_confidence_intervals": {
+      "recall_injured_95_ci": [
+        0.565,
+        0.9801
+      ],
+      "precision_95_ci": [
+        0.4902,
+        0.9433
+      ],
+      "specificity_healthy_95_ci": [
+        0.9431,
+        0.9956
+      ],
+      "accuracy_95_ci": [
+        0.9358,
+        0.9923
+      ],
+      "statistical_uncertainty_note": "The test set contains 9 injured examples out of 133 total. The 95% Wilson confidence interval for injured recall (88.9%) ranges from 56.5% to 98.0%. Because clinical conclusions require high certainty, this small test sample warrants caution."
+    }
+  }
+}

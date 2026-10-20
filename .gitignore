@@ -1,0 +1,104 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+*.pem
+*.key
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.tox/
+.nox/
+
+# Datasets and raw binary media (keep structure and docs, exclude binaries)
+dataset/injuries/
+dataset/raw/
+dataset/*.multiclass/
+injuries/
+injured animal.v1.multiclass/
+injured_images/
+dataset_raw/
+*.jpg
+*.jpeg
+*.png
+*.webp
+*.bmp
+*.zip
+*.tar.gz
+
+# Model weights and checkpoints (keep .gitkeep, ignore weights)
+checkpoints/*
+!checkpoints/.gitkeep
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.bin
+*.h5
+
+# Experiment checkpoints and temporary artifacts
+results/experiments/
+wandb/
+runs/
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Legacy directory if kept locally
+Major/__pycache__/
+
+# Exclude legacy dataset, scripts, and checkpoints
+Major/
+
+# Exclude experiment artifacts
+results/experiments/
+

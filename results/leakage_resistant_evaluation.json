@@ -1,0 +1,82 @@
+{
+  "grouped_test_total_samples": 121,
+  "grouped_test_healthy": 108,
+  "grouped_test_injured": 13,
+  "models": {
+    "exp1_resnet18_unweighted": {
+      "model_architecture": "resnet18",
+      "decision_threshold": 0.33,
+      "accuracy": 0.9835,
+      "balanced_accuracy": 0.9569,
+      "precision": 0.9231,
+      "recall_injured": 0.9231,
+      "false_negatives": 1,
+      "false_positives": 1,
+      "true_positives": 12,
+      "true_negatives": 107,
+      "f1_score": 0.9231,
+      "roc_auc": 0.9957,
+      "brier_score": 0.0486
+    },
+    "exp2_resnet18_weighted_bce": {
+      "model_architecture": "resnet18",
+      "decision_threshold": 0.67,
+      "accuracy": 0.9917,
+      "balanced_accuracy": 0.9615,
+      "precision": 1.0,
+      "recall_injured": 0.9231,
+      "false_negatives": 1,
+      "false_positives": 0,
+      "true_positives": 12,
+      "true_negatives": 108,
+      "f1_score": 0.96,
+      "roc_auc": 0.9972,
+      "brier_score": 0.1031
+    },
+    "exp3_resnet18_weighted_sampler": {
+      "model_architecture": "resnet18",
+      "decision_threshold": 0.58,
+      "accuracy": 0.9669,
+      "balanced_accuracy": 0.9476,
+      "precision": 0.8,
+      "recall_injured": 0.9231,
+      "false_negatives": 1,
+      "false_positives": 3,
+      "true_positives": 12,
+      "true_negatives": 105,
+      "f1_score": 0.8571,
+      "roc_auc": 0.9979,
+      "brier_score": 0.0737
+    },
+    "exp4_resnet18_aug_twostage": {
+      "model_architecture": "resnet18",
+      "decision_threshold": 0.65,
+      "accuracy": 0.9752,
+      "balanced_accuracy": 0.9523,
+      "precision": 0.8571,
+      "recall_injured": 0.9231,
+      "false_negatives": 1,
+      "false_positives": 2,
+      "true_positives": 12,
+      "true_negatives": 106,
+      "f1_score": 0.8889,
+      "roc_auc": 0.99,
+      "brier_score": 0.1507
+    },
+    "exp5_efficientnet_b0": {
+      "model_architecture": "efficientnet_b0",
+      "decision_threshold": 0.58,
+      "accuracy": 0.9752,
+      "balanced_accuracy": 0.9861,
+      "precision": 0.8125,
+      "recall_injured": 1.0,
+      "false_negatives": 0,
+      "false_positives": 3,
+      "true_positives": 13,
+      "true_negatives": 105,
+      "f1_score": 0.8966,
+      "roc_auc": 0.9986,
+      "brier_score": 0.2229
+    }
+  }
+}

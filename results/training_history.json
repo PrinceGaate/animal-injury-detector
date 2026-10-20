@@ -1,0 +1,107 @@
+{
+  "experiment_name": "group_disjoint_resnet18_weighted_bce",
+  "model_name": "resnet18",
+  "best_epoch": 2,
+  "best_val_f1": 1.0,
+  "selected_threshold": 0.73,
+  "history": {
+    "epoch": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "train_loss": [
+      0.915891,
+      0.421608,
+      0.250625,
+      0.152751
+    ],
+    "val_loss": [
+      0.520114,
+      0.277189,
+      0.209578,
+      0.141103
+    ],
+    "val_accuracy": [
+      0.8934,
+      0.9426,
+      0.9508,
+      0.9672
+    ],
+    "val_balanced_acc": [
+      0.9393,
+      0.9673,
+      0.972,
+      0.9813
+    ],
+    "val_precision": [
+      0.5357,
+      0.6818,
+      0.7143,
+      0.7895
+    ],
+    "val_recall": [
+      1.0,
+      1.0,
+      1.0,
+      1.0
+    ],
+    "val_f1": [
+      0.6977,
+      0.8108,
+      0.8333,
+      0.8824
+    ],
+    "val_false_negatives": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "optimal_threshold": [
+      0.61,
+      0.73,
+      0.79,
+      0.75
+    ]
+  },
+  "config": {
+    "experiment_name": "group_disjoint_resnet18_weighted_bce",
+    "data_dir": "dataset/injuries",
+    "checkpoint_dir": "results\\experiments\\group_disjoint_resnet18_weighted_bce",
+    "results_dir": "results",
+    "best_checkpoint_name": "best_model.pth",
+    "image_size": 224,
+    "norm_mean": [
+      0.485,
+      0.456,
+      0.406
+    ],
+    "norm_std": [
+      0.229,
+      0.224,
+      0.225
+    ],
+    "augmentation_level": "standard",
+    "batch_size": 32,
+    "num_workers": 0,
+    "learning_rate": 0.0003,
+    "backbone_lr": null,
+    "weight_decay": 0.0001,
+    "epochs": 4,
+    "early_stopping_patience": 3,
+    "random_seed": 42,
+    "freeze_backbone_epochs": 0,
+    "loss_type": "weighted_bce",
+    "sampler_type": "standard",
+    "use_pos_weight": true,
+    "decision_threshold": 0.5,
+    "optimize_threshold_val": true,
+    "model_name": "resnet18",
+    "pretrained": true,
+    "dropout_rate": 0.2,
+    "device_name": null,
+    "device": "cpu"
+  }
+}

@@ -1,0 +1,4439 @@
+{
+  "random_seed": 42,
+  "split_ratios": {
+    "train": 0.7,
+    "valid": 0.15,
+    "test": 0.15
+  },
+  "groups": {
+    "train_groups": [
+      "-",
+      "-2",
+      "-4",
+      "0",
+      "00",
+      "002",
+      "004",
+      "009",
+      "0094",
+      "011",
+      "015",
+      "017",
+      "018",
+      "01_379",
+      "028",
+      "030",
+      "034",
+      "037",
+      "039",
+      "046",
+      "047",
+      "055",
+      "066",
+      "071",
+      "075",
+      "076",
+      "088",
+      "094",
+      "1",
+      "1-1-_png",
+      "1-1617837",
+      "1-48-_png",
+      "1280",
+      "2017Oct05_4_2048x",
+      "2019032502",
+      "20210220003580",
+      "2132312",
+      "255",
+      "300-0-1",
+      "358735",
+      "36",
+      "363426",
+      "363680",
+      "363938",
+      "42",
+      "536",
+      "60",
+      "625",
+      "629e20fa9b40083a59dcea34_Dog-zoomies_Hero",
+      "636",
+      "666",
+      "67",
+      "6ffae681f9f29c7a",
+      "890",
+      "Best-Dog-Collar-for-Sensitive-Skin-review",
+      "Blog-Hero-1",
+      "EPC_SkinHealthy_3_canva",
+      "GettyImages-665692493-93a3738e52764fbda4e65a509230d470",
+      "GettyImages-91782737-57113e1e3df78c3fa2acad08",
+      "HEALTHY_003",
+      "HEALTHY_004",
+      "HEALTHY_005",
+      "HEALTHY_006",
+      "HEALTHY_007",
+      "HEALTHY_008",
+      "HEALTHY_009",
+      "HEALTHY_010",
+      "HEALTHY_011",
+      "HEALTHY_012",
+      "HEALTHY_013",
+      "HEALTHY_016",
+      "HEALTHY_017",
+      "HEALTHY_020",
+      "HEALTHY_022",
+      "HEALTHY_024",
+      "HEALTHY_025",
+      "HEALTHY_027",
+      "HEALTHY_028",
+      "HEALTHY_030",
+      "HEALTHY_031",
+      "HEALTHY_032",
+      "HEALTHY_033",
+      "HEALTHY_035",
+      "HEALTHY_036",
+      "HEALTHY_041",
+      "HEALTHY_042",
+      "HEALTHY_044",
+      "HEALTHY_046",
+      "HEALTHY_047",
+      "HEALTHY_050",
+      "HEALTHY_051",
+      "HEALTHY_053",
+      "HEALTHY_056",
+      "HEALTHY_057",
+      "HEALTHY_059",
+      "HEALTHY_060",
+      "HK0P2T-1-920x518",
+      "Image_10",
+      "Image_10_jpeg",
+      "Image_11",
+      "Image_12",
+      "Image_15",
+      "Image_2",
+      "Image_23",
+      "Image_24",
+      "Image_25",
+      "Image_28",
+      "Image_3",
+      "Image_30",
+      "Image_4",
+      "Image_6",
+      "Image_7",
+      "Image_8",
+      "Image_9",
+      "Puppy-Basics-Keeping-Your-Puppy-s-Skin-and-Coat-Healthy-mob_png",
+      "Untitled-design-2020-06-15T212709-126-1_png",
+      "assets_blog_10WaystoImproveDogsSkinandCoat_1604617807349-brown-fluffly-dog-laying-on-bed-with-health-coat",
+      "c82ea9335c2a7303e5963f5c5bf6e5db",
+      "cat-1-",
+      "cat-2-",
+      "cat-6-",
+      "d145720",
+      "dog",
+      "dog-with-beautiful-fur-e1520959404488",
+      "dogs_000",
+      "dogs_004",
+      "dogs_005",
+      "dogs_008",
+      "dogs_010",
+      "dogs_011",
+      "dogs_012",
+      "dogs_013",
+      "dogs_014",
+      "dogs_020",
+      "dogs_030",
+      "dogs_032",
+      "dogs_037",
+      "dogs_039",
+      "dogs_040",
+      "dogs_044",
+      "dogs_046",
+      "dogs_047",
+      "dogs_054",
+      "dogs_056",
+      "dogs_060",
+      "dogs_069",
+      "dogs_076",
+      "dogs_077",
+      "dogs_083",
+      "dogs_087",
+      "dogs_088",
+      "dogs_094",
+      "dogs_096",
+      "dogs_106",
+      "dogs_113",
+      "dogs_116",
+      "dogs_118",
+      "dogs_119",
+      "dogs_120",
+      "dogs_121",
+      "dogs_122",
+      "dogs_123",
+      "dogs_130",
+      "dogs_131",
+      "dogs_136",
+      "dogs_137",
+      "dogs_141",
+      "dogs_143",
+      "dogs_145",
+      "dogs_146",
+      "dogs_147",
+      "dogs_149",
+      "dogs_150",
+      "dogs_152",
+      "dogs_160",
+      "dogs_162",
+      "dogs_163",
+      "dogs_169",
+      "dogs_221",
+      "dogs_231",
+      "dogs_255",
+      "dogs_271",
+      "dogs_272",
+      "dogs_275",
+      "dogs_279",
+      "download",
+      "e7461275",
+      "f802524f531f43dfb211392071de17e6",
+      "featured-nutrition-skin-dogs_FI",
+      "images",
+      "images-1",
+      "images-10",
+      "images-12",
+      "images-13",
+      "images-15",
+      "images-16",
+      "images-26",
+      "images-27",
+      "images-29",
+      "images-30",
+      "images-31",
+      "images-32",
+      "images-34",
+      "images-35",
+      "images-38",
+      "images-4",
+      "images-42",
+      "images-43",
+      "images-44",
+      "images-46",
+      "images-47",
+      "images-49",
+      "images-5",
+      "images-50",
+      "images-51",
+      "images-52",
+      "images-55",
+      "images-57",
+      "images-59",
+      "images-7",
+      "images-9",
+      "img_1348",
+      "mobile01-59848e11a6eb12545ef2d638e24e185b",
+      "pic10",
+      "pic12",
+      "pic14",
+      "pic15",
+      "pic16",
+      "pic17",
+      "pic19",
+      "pic2",
+      "pic20",
+      "pic21",
+      "pic22",
+      "pic23",
+      "pic24",
+      "pic25",
+      "pic26",
+      "pic27",
+      "pic28",
+      "pic29",
+      "pic3",
+      "pic31",
+      "pic32",
+      "pic33",
+      "pic37",
+      "pic39",
+      "pic40",
+      "pic41",
+      "pic42",
+      "pic43",
+      "pic44",
+      "pic47",
+      "pic48",
+      "pic49",
+      "pic5",
+      "pic50",
+      "pic52",
+      "pic53",
+      "pic55",
+      "pic56",
+      "pic57",
+      "pic58",
+      "pic59",
+      "pic60",
+      "pic61",
+      "pic62",
+      "pic63",
+      "pic64",
+      "pic65",
+      "pic67",
+      "pic68",
+      "pic69",
+      "pic7",
+      "pic83",
+      "pic9",
+      "shutterstock_31893043-1",
+      "skin-cancer-bumps-dog",
+      "w700d1q75cms"
+    ],
+    "val_groups": [
+      "-3",
+      "021",
+      "022",
+      "024",
+      "0282eae46f6d473ab1ef481ca4148105",
+      "05",
+      "16",
+      "165630613_10158343071952198_6140509686028906241_n",
+      "46",
+      "HEALTHY_014",
+      "HEALTHY_018",
+      "HEALTHY_019",
+      "HEALTHY_021",
+      "HEALTHY_029",
+      "HEALTHY_040",
+      "HEALTHY_043",
+      "HEALTHY_054",
+      "HEALTHY_055",
+      "Image_1",
+      "Image_14",
+      "Image_20",
+      "Image_22",
+      "Image_27",
+      "R3",
+      "best-dog-food-for-skin-allergies-feature-2",
+      "cat-3-",
+      "dogs_001",
+      "dogs_003",
+      "dogs_007",
+      "dogs_025",
+      "dogs_028",
+      "dogs_029",
+      "dogs_052",
+      "dogs_067",
+      "dogs_082",
+      "dogs_139",
+      "dogs_151",
+      "dogs_154",
+      "dogs_168",
+      "dogs_172",
+      "dogs_179",
+      "dogs_245",
+      "heal-the-gut-to-heal-the-skin-642781_1024x",
+      "images-18",
+      "images-19",
+      "images-2",
+      "images-25",
+      "images-3",
+      "images-45",
+      "images-48",
+      "images-8",
+      "mota-ru-cute-dog-1477384405",
+      "pic18",
+      "pic34",
+      "pic36",
+      "pic46",
+      "pic54",
+      "pic8",
+      "vet-skin-issues-s_1667594728-678x381"
+    ],
+    "test_groups": [
+      "0-1-",
+      "077",
+      "082",
+      "1653319072",
+      "26",
+      "53",
+      "80-2-",
+      "HEALTHY_002",
+      "HEALTHY_015",
+      "HEALTHY_023",
+      "HEALTHY_026",
+      "HEALTHY_034",
+      "HEALTHY_037",
+      "HEALTHY_038",
+      "HEALTHY_039",
+      "HEALTHY_045",
+      "HEALTHY_048",
+      "HEALTHY_049_jpeg",
+      "HEALTHY_052",
+      "HEALTHY_058",
+      "Image_18",
+      "cat-4-",
+      "cat-5-",
+      "d145717",
+      "dogs_016",
+      "dogs_021",
+      "dogs_041",
+      "dogs_045",
+      "dogs_053",
+      "dogs_074",
+      "dogs_084",
+      "dogs_099",
+      "dogs_105",
+      "dogs_112",
+      "dogs_124",
+      "dogs_125",
+      "dogs_134",
+      "dogs_148",
+      "dogs_153",
+      "dogs_164",
+      "dogs_211",
+      "dogs_236",
+      "dogs_265",
+      "dogs_276",
+      "dogs_278",
+      "images-24",
+      "images-28",
+      "images-33",
+      "images-40",
+      "images-53",
+      "pic0",
+      "pic1",
+      "pic11",
+      "pic13",
+      "pic30",
+      "pic38",
+      "pic4",
+      "pic45",
+      "pic66"
+    ],
+    "train_group_count": 279,
+    "val_group_count": 59,
+    "test_group_count": 59
+  },
+  "samples": {
+    "train": [
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic56_jpg.rf.58304a5fb896391461cb8cc17edb6077.jpg",
+        "label": 0,
+        "prefix": "pic56"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_037_jpg.rf.925367b4bf9835da1a37d76993807183.jpg",
+        "label": 0,
+        "prefix": "dogs_037"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_037_jpg.rf.d1bad189695128b6d41621cbe6cd878b.jpg",
+        "label": 0,
+        "prefix": "dogs_037"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_037_jpg.rf.3cf6b33d80c9e4c70d55e84f7aa7089a.jpg",
+        "label": 0,
+        "prefix": "dogs_037"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\636_jpg.rf.8c5053ff6ff61c7ef9d3bd3e41d9b33c.jpg",
+        "label": 0,
+        "prefix": "636"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic3_jpg.rf.e135cb398d33135e2934307e5783df65.jpg",
+        "label": 0,
+        "prefix": "pic3"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_163_jpg.rf.5a7289eef15aca3a418fea935a3c607a.jpg",
+        "label": 0,
+        "prefix": "dogs_163"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_163_jpg.rf.66a7b1e47aa9e15bd87758cec85c892c.jpg",
+        "label": 0,
+        "prefix": "dogs_163"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_163_jpg.rf.c5dec32a22b63d69c9953ed43b9e8cff.jpg",
+        "label": 0,
+        "prefix": "dogs_163"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\017_jpg.rf.39654cd64e575086f83d2d7390cc9dd1.jpg",
+        "label": 0,
+        "prefix": "017"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-16_jpg.rf.5701591240c379ef43891c93348a51ab.jpg",
+        "label": 0,
+        "prefix": "images-16"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_113_jpg.rf.116d1a79eda3ee0c115c42e7dc4ba2b9.jpg",
+        "label": 0,
+        "prefix": "dogs_113"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_113_jpg.rf.94d146bef3c79faa2590857dd7d033f8.jpg",
+        "label": 0,
+        "prefix": "dogs_113"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\pic25_jpg.rf.9e69456da9ad65bb499f045ea5c5e033.jpg",
+        "label": 0,
+        "prefix": "pic25"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_169_jpg.rf.4889ff6a7b639614572bbc92cbb08c6a.jpg",
+        "label": 0,
+        "prefix": "dogs_169"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_169_jpg.rf.92f44c253b9654ee9955393dd77b9b6b.jpg",
+        "label": 0,
+        "prefix": "dogs_169"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_169_jpg.rf.fd9a1635b2be60b75d28a292514d3353.jpg",
+        "label": 0,
+        "prefix": "dogs_169"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\015_jpg.rf.49860f9dd40e93205dff24c6035256f2.jpg",
+        "label": 0,
+        "prefix": "015"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_042_jpg.rf.a2379c8c9e32116a5ba465a2685b2cde.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_042"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_042_jpg.rf.bfd8b3ab4dc32248376f9e602819d41a.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_042"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic40_jpg.rf.478d1b14c8647faa1429e9e135a57718.jpg",
+        "label": 0,
+        "prefix": "pic40"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_008_jpg.rf.93f636ff26d30d20c1f05b6529eecd0f.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_008"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_008_jpg.rf.a1e7e399c33ba369e61a7ab4ad0c76e0.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_008"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_008_jpg.rf.e601b58977ca3ff6fb8205b3363f3903.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_008"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\pic39_jpg.rf.10e80391e830e30e09ff370ba29a1ebc.jpg",
+        "label": 0,
+        "prefix": "pic39"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_047_jpg.rf.53ab238fd7031100cc4a7127a2670408.jpg",
+        "label": 0,
+        "prefix": "dogs_047"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_047_jpg.rf.8fa3e5727285a852f70cf8e7da648ce6.jpg",
+        "label": 0,
+        "prefix": "dogs_047"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_047_jpg.rf.a0ad6f471fcb1a9db26eaa345df20283.jpg",
+        "label": 0,
+        "prefix": "dogs_047"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_143_jpg.rf.879d3d9102a72794e411715b3bfa21fe.jpg",
+        "label": 0,
+        "prefix": "dogs_143"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_143_jpg.rf.907b31e3e00ca57fcf04d4630b0f3f58.jpg",
+        "label": 0,
+        "prefix": "dogs_143"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_143_jpg.rf.b2679ba40d374df0982a58afd90bd9aa.jpg",
+        "label": 0,
+        "prefix": "dogs_143"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_004_jpg.rf.07052a32ccfc3bed830ce478e83cb8ef.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_004"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_004_jpg.rf.98e779616f373c60f5243a55f0971931.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_004"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_012_jpg.rf.04945fa7ce358850ef40084bd16cc573.jpg",
+        "label": 0,
+        "prefix": "dogs_012"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_012_jpg.rf.4b97f213e854da1dbd66f9f29808eab7.jpg",
+        "label": 0,
+        "prefix": "dogs_012"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_146_jpg.rf.8c73257b00df9ad147908df84840670a.jpg",
+        "label": 0,
+        "prefix": "dogs_146"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_146_jpg.rf.1a4aa48c03ba5e0083e685b3779fb358.jpg",
+        "label": 0,
+        "prefix": "dogs_146"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\076_jpg.rf.c1b994f5ce034f1287ed111e0304dafe.jpg",
+        "label": 0,
+        "prefix": "076"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Best-Dog-Collar-for-Sensitive-Skin-review_jpg.rf.d3d99996bc2589d76af7d5524d696422.jpg",
+        "label": 0,
+        "prefix": "Best-Dog-Collar-for-Sensitive-Skin-review"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_053_jpg.rf.66fb30e3f216566d845fd8d98d493beb.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_053"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_053_jpg.rf.d80483943bf526ccd01f3bc32ee49396.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_053"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_053_jpg.rf.7a61e88453c93e047f81eab95e7b84f4.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_053"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_7_jpg.rf.5d279007ae12304bd8ff0cc6e42fef3a.jpg",
+        "label": 0,
+        "prefix": "Image_7"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_7_jpg.rf.6c914c1a155d800b0fc2a20b2289f885.jpg",
+        "label": 0,
+        "prefix": "Image_7"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_7_jpg.rf.c003aa01129a595db4dca86057dc62e0.jpg",
+        "label": 0,
+        "prefix": "Image_7"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_7_jpg.rf.f0efd9623850b8e83ad5c803282018eb.jpg",
+        "label": 0,
+        "prefix": "Image_7"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_7_jpg.rf.f6e4f57fb5a63d74b676378c26adbdc6.jpg",
+        "label": 0,
+        "prefix": "Image_7"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_7_jpg.rf.185fc9bb5bf422a54da38a0584d6dd44.jpg",
+        "label": 0,
+        "prefix": "Image_7"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_011_jpg.rf.d046d1850b7b73ce886f2cb971bb8290.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_011"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_011_jpg.rf.1f24d5fbeef1d0818f5a9de8077aa269.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_011"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_011_jpg.rf.5c585c02d91d034ec1a7ff50cb5a15b5.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_011"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_056_jpg.rf.0b13870f522fa0957197a2dd379885b9.jpg",
+        "label": 0,
+        "prefix": "dogs_056"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_056_jpg.rf.6d30fc966818aa00bfdbcfb274e286b5.jpg",
+        "label": 0,
+        "prefix": "dogs_056"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_056_jpg.rf.b9d026c4e3dcc57a74a769c03739f2ef.jpg",
+        "label": 0,
+        "prefix": "dogs_056"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-43_jpg.rf.82c6f9b08a2080fe4c7c3b4c5597fdbc.jpg",
+        "label": 0,
+        "prefix": "images-43"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-5_jpg.rf.29b064ef3aadf2503f6cc58fc72b1ca2.jpg",
+        "label": 0,
+        "prefix": "images-5"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_077_jpg.rf.748839ff5a2330e7af3727c2981d751a.jpg",
+        "label": 0,
+        "prefix": "dogs_077"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_077_jpg.rf.6a9497cf2ea71dd7754d3d9b28220796.jpg",
+        "label": 0,
+        "prefix": "dogs_077"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_077_jpg.rf.8e4f0166f178ebd7b37eaf3750e6792b.jpg",
+        "label": 0,
+        "prefix": "dogs_077"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\images-31_jpg.rf.47c5885c7cbd805de69117f017ca0279.jpg",
+        "label": 0,
+        "prefix": "images-31"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_009_jpg.rf.1e2ee7d54edf2343d6f39d414a15de48.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_009"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_009_jpg.rf.9c85fde8a94bd2ece3a77e3f5ae8fda4.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_009"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_009_jpg.rf.e12615fb91b82cef6930cedd4a28551f.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_009"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_4_jpg.rf.3a4573cbe2c602047a779e84184a719b.jpg",
+        "label": 0,
+        "prefix": "Image_4"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_4_jpg.rf.91ad37c33491d13d7d62cadd06d0c11a.jpg",
+        "label": 0,
+        "prefix": "Image_4"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_4_jpg.rf.9cc9c16c3b64c027f14e3569861e1f27.jpg",
+        "label": 0,
+        "prefix": "Image_4"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_005_jpg.rf.cfee2433e5e479851c095e6c6fb31161.jpg",
+        "label": 0,
+        "prefix": "dogs_005"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_005_jpg.rf.e021fc8d7315f37e34f785d45f0853cb.jpg",
+        "label": 0,
+        "prefix": "dogs_005"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_005_jpg.rf.6cd4402af1b5c93dcf5ebb7863e521d6.jpg",
+        "label": 0,
+        "prefix": "dogs_005"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_033_jpg.rf.5fb92eb13edcb8ed8e841b50598fb521.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_033"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_033_jpg.rf.fea121ded298884fdd685707dfbe630a.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_033"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_033_jpg.rf.f3ecbd6a2604b027533f1b1d63bb5314.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_033"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\018_jpg.rf.84897d9718862888046180a957575c38.jpg",
+        "label": 0,
+        "prefix": "018"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_076_jpg.rf.6d6d29f7628beeed3b63e9da4b8abf99.jpg",
+        "label": 0,
+        "prefix": "dogs_076"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_076_jpg.rf.2ac0c5b9666c69adc8b1ad815ada2b9d.jpg",
+        "label": 0,
+        "prefix": "dogs_076"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_010_jpg.rf.db1c3c58bc2fcb7968255cc89579f8fd.jpg",
+        "label": 0,
+        "prefix": "dogs_010"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_010_jpg.rf.9adddf9be8996a5cb11ac11b3de22121.jpg",
+        "label": 0,
+        "prefix": "dogs_010"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_010_jpg.rf.ee758799add0cf4c6254f46565ddf08f.jpg",
+        "label": 0,
+        "prefix": "dogs_010"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic62_jpg.rf.70836c2ac216760799a09da42d17601b.jpg",
+        "label": 0,
+        "prefix": "pic62"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\047_jpg.rf.3622dd44ec2437ad7ebb655bcb8dadc2.jpg",
+        "label": 0,
+        "prefix": "047"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\002_jpg.rf.19a707d57ea7d67879969bf94ff94e36.jpg",
+        "label": 0,
+        "prefix": "002"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_005_jpg.rf.291f8cd8481e8d9ac40e6378120a3af3.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_005"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_005_jpg.rf.67b56b0314d46104cdeb4a8a5d0c056a.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_005"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_005_jpg.rf.e3c38f74ee148aa2390ac9d83bb85d3f.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_005"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_007_jpg.rf.7dad0dfd20c18cbc02c76ec66d2b26ad.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_007"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_007_jpg.rf.779922676422851675b5c3843b3b4df0.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_007"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic12_jpg.rf.74696d6ff70feef1c348cb344c211352.jpg",
+        "label": 0,
+        "prefix": "pic12"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic24_jpg.rf.3428d46fe9e9791cdc93c6e41db75882.jpg",
+        "label": 0,
+        "prefix": "pic24"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\011_jpg.rf.b523d540704447fceeb2a3b8d8b626c0.jpg",
+        "label": 0,
+        "prefix": "011"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_035_jpg.rf.6af5f001d9403608e163281e02b5f119.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_035"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_035_jpg.rf.ced0ffc2631afec899850d02326f6f13.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_035"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_035_jpg.rf.989044cc4f07b2d860cf38666087c0c7.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_035"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_279_jpg.rf.1cabdb74dc75a7a4a1e9c35221d340b8.jpg",
+        "label": 0,
+        "prefix": "dogs_279"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_279_jpg.rf.a5e2fb5bd646806b4a491b1d2fcdb146.jpg",
+        "label": 0,
+        "prefix": "dogs_279"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_279_jpg.rf.dbd76eb11c0b34f3a3f76fc6b8aaca04.jpg",
+        "label": 0,
+        "prefix": "dogs_279"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\skin-cancer-bumps-dog_jpg.rf.837192aff03f1c5ea680c820c307d197.jpg",
+        "label": 0,
+        "prefix": "skin-cancer-bumps-dog"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic28_jpg.rf.9bc6ced4ee3ece556ecd05e40265ab4f.jpg",
+        "label": 0,
+        "prefix": "pic28"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\1-48-_png_jpg.rf.c095a0821a2bb6b9f2513016453457e1.jpg",
+        "label": 0,
+        "prefix": "1-48-_png"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_10_jpeg_jpg.rf.33ee9f8dd5e6a40dee2162209bb9cc1f.jpg",
+        "label": 0,
+        "prefix": "Image_10_jpeg"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_10_jpeg_jpg.rf.3f58d3e7ea3f0e0176fe516b923d6fa2.jpg",
+        "label": 0,
+        "prefix": "Image_10_jpeg"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_10_jpeg_jpg.rf.cc9236214504f142db7dfd07bfb9bb6b.jpg",
+        "label": 0,
+        "prefix": "Image_10_jpeg"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_6_jpg.rf.89b18a058c16cc4e464f167d3651e3ab.jpg",
+        "label": 0,
+        "prefix": "Image_6"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_6_jpg.rf.fba299f4490b928377e2fcc8a52ecffa.jpg",
+        "label": 0,
+        "prefix": "Image_6"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_6_jpg.rf.fd7b148de0f46d6f4169114e520294cb.jpg",
+        "label": 0,
+        "prefix": "Image_6"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\images-38_jpg.rf.fdfdf8083b4a168337f7da4194cb15a1.jpg",
+        "label": 0,
+        "prefix": "images-38"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_123_jpg.rf.8815ae5072eabe15c2900205af95be69.jpg",
+        "label": 0,
+        "prefix": "dogs_123"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_123_jpg.rf.9fc076b0091cf7ac92268a88a63ed0b1.jpg",
+        "label": 0,
+        "prefix": "dogs_123"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_123_jpg.rf.bf377019635b4a3928f48576da9ff1a8.jpg",
+        "label": 0,
+        "prefix": "dogs_123"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_051_jpg.rf.70968096abd0190c0d2289c81ad83c43.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_051"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_051_jpg.rf.89fbc7373aaefed89efbc56da30ad74c.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_051"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_051_jpg.rf.af46ad59f49ff07ef833dd26885d5cab.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_051"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\pic41_jpg.rf.da4ec4a5de68124bf1218574953fe7c3.jpg",
+        "label": 0,
+        "prefix": "pic41"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\pic15_jpg.rf.9fd924bad95c251fde574c613f420a81.jpg",
+        "label": 0,
+        "prefix": "pic15"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_122_jpg.rf.376c3a6585ddaece1941bd2b9d4206c2.jpg",
+        "label": 0,
+        "prefix": "dogs_122"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_122_jpg.rf.3d7c2107b8e61106f3aa4dfccb80a8d3.jpg",
+        "label": 0,
+        "prefix": "dogs_122"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_122_jpg.rf.380037109b56e09bcbee071169244cf0.jpg",
+        "label": 0,
+        "prefix": "dogs_122"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_003_jpg.rf.030a19a384dbfbdd5b246b2bb730d887.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_003"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_003_jpg.rf.d8275c17544594fa6ce19d8ce8d1f7c3.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_003"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_003_jpg.rf.f10589f91f5777fa12d8d69453ab3484.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_003"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\f802524f531f43dfb211392071de17e6_jpg.rf.eddc09476309f4ab95701491bf09613f.jpg",
+        "label": 0,
+        "prefix": "f802524f531f43dfb211392071de17e6"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_130_jpg.rf.140efb8e7ed60826a8acd07e95da2c90.jpg",
+        "label": 0,
+        "prefix": "dogs_130"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_130_jpg.rf.f2e35592697bd18ed89a20d2a93f4d2d.jpg",
+        "label": 0,
+        "prefix": "dogs_130"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_130_jpg.rf.7ef815ff63c58697adbf156a5d154ed2.jpg",
+        "label": 0,
+        "prefix": "dogs_130"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\images-52_jpg.rf.b171881528ac3967f149447424b887c7.jpg",
+        "label": 0,
+        "prefix": "images-52"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_147_jpg.rf.40a172062113218047a8d6614498be43.jpg",
+        "label": 0,
+        "prefix": "dogs_147"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_147_jpg.rf.520bb4bfbdcdcf1c8313535fe93a5535.jpg",
+        "label": 0,
+        "prefix": "dogs_147"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_147_jpg.rf.ded7012fa0926dcb251b834188228376.jpg",
+        "label": 0,
+        "prefix": "dogs_147"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\629e20fa9b40083a59dcea34_Dog-zoomies_Hero_jpg.rf.20f8b2db91d4cd09875e1741067679b0.jpg",
+        "label": 0,
+        "prefix": "629e20fa9b40083a59dcea34_Dog-zoomies_Hero"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic9_jpg.rf.44015a5a309a2c7b010a144dc378e986.jpg",
+        "label": 0,
+        "prefix": "pic9"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_2_jpg.rf.1550249cb42dafbc8fd37595fa97c790.jpg",
+        "label": 0,
+        "prefix": "Image_2"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_2_jpg.rf.5f7f072d4df5b34c1f795cc8a8565868.jpg",
+        "label": 0,
+        "prefix": "Image_2"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_2_jpg.rf.e271a17a19e12b08cf205022ddac625d.jpg",
+        "label": 0,
+        "prefix": "Image_2"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_046_jpg.rf.5c33c5678cdc567792cec8fb03c935a3.jpg",
+        "label": 0,
+        "prefix": "dogs_046"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_046_jpg.rf.1652d696f49319457443f2adade1eb7a.jpg",
+        "label": 0,
+        "prefix": "dogs_046"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_046_jpg.rf.945af7251ed1575ef591c5bf88203fe4.jpg",
+        "label": 0,
+        "prefix": "dogs_046"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic33_jpg.rf.0026e67bed848e81f345fe916ddca2ae.jpg",
+        "label": 0,
+        "prefix": "pic33"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\2017Oct05_4_2048x_jpg.rf.0fe9d36101d884deec3c987b38abf176.jpg",
+        "label": 0,
+        "prefix": "2017Oct05_4_2048x"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic55_jpg.rf.b6f4fab99958d51c9be343b24099a0a5.jpg",
+        "label": 0,
+        "prefix": "pic55"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\046_jpg.rf.25841e2d91ba7dd1556c96e5198e1956.jpg",
+        "label": 0,
+        "prefix": "046"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_23_jpg.rf.87eb3385872ec98d6f8d1b209acfa7d4.jpg",
+        "label": 0,
+        "prefix": "Image_23"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_23_jpg.rf.e6d0dde5eebfd8117753b0d6b8a652aa.jpg",
+        "label": 0,
+        "prefix": "Image_23"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_23_jpg.rf.6395b6d2ed22f4005217b672a739169a.jpg",
+        "label": 0,
+        "prefix": "Image_23"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\066_jpg.rf.c9c2374361df6a285aaaf3209d0e7451.jpg",
+        "label": 0,
+        "prefix": "066"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\055_jpg.rf.266a48340824fd37a9117261d06859c3.jpg",
+        "label": 0,
+        "prefix": "055"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_004_jpg.rf.022a3e64eb42d3ab7a1df92a7d4d0f18.jpg",
+        "label": 0,
+        "prefix": "dogs_004"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_004_jpg.rf.984d6a3108672f4689f1bcbf2a43b709.jpg",
+        "label": 0,
+        "prefix": "dogs_004"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_004_jpg.rf.9c588ed9de6fb6a18cac979019da5020.jpg",
+        "label": 0,
+        "prefix": "dogs_004"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-27_jpg.rf.ff79c9d6fbb91d57d5767fd3cc5237b3.jpg",
+        "label": 0,
+        "prefix": "images-27"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\034_jpg.rf.fba1f5dd626e4aa47cb2f31840e8282e.jpg",
+        "label": 0,
+        "prefix": "034"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_010_jpg.rf.579c656a6bf98c856ce9e00dc7b09f9c.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_010"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_010_jpg.rf.f406420133aaaa70bd566ce97afcc6c4.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_010"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_010_jpg.rf.2bee7dc42ec3b219a5166c7659b9fd21.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_010"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_027_jpg.rf.2b74b2b104b78cc92db1021e6558bb4d.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_027"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_027_jpg.rf.879c2db26ca14fa5ef78033cd1827781.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_027"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_027_jpg.rf.242891ab82ccede6887e39701903d905.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_027"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_041_jpg.rf.4e72c7279aec0c0d5db58345a5661866.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_041"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_041_jpg.rf.d6f8b99c4a86fcb782d2652d0b682240.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_041"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_041_jpg.rf.57bb5b12d5cc5559268c608bf1d62c87.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_041"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic58_jpg.rf.ef4f69356a8d12dac1157a9e8221e543.jpg",
+        "label": 0,
+        "prefix": "pic58"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\0094_jpg.rf.7d56cdbd09af197c59b67c68990edef4.jpg",
+        "label": 0,
+        "prefix": "0094"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-57_jpg.rf.8b01c1cae7cea4b6107891236075d926.jpg",
+        "label": 0,
+        "prefix": "images-57"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_031_jpg.rf.1072241eb2488beffab1b76bc95899e8.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_031"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_031_jpg.rf.a28fdc0fc72b037d0a35e4d30af95a9e.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_031"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_014_jpg.rf.2119c262b15b2264727357124b118439.jpg",
+        "label": 0,
+        "prefix": "dogs_014"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic50_jpg.rf.1ccee71983192be93453f23f403ecf02.jpg",
+        "label": 0,
+        "prefix": "pic50"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-34_jpg.rf.ce55179ceef0ed5375f094560cc12645.jpg",
+        "label": 0,
+        "prefix": "images-34"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\pic52_jpg.rf.658430b894f653db37ef7db132d769c5.jpg",
+        "label": 0,
+        "prefix": "pic52"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\625_jpg.rf.12ec851e21564d93cb7e1e7214cb7e50.jpg",
+        "label": 0,
+        "prefix": "625"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_145_jpg.rf.31a590cd6d96bb585ba04c47045143cd.jpg",
+        "label": 0,
+        "prefix": "dogs_145"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_145_jpg.rf.5afc07c36f851887f7bceafa89454a3e.jpg",
+        "label": 0,
+        "prefix": "dogs_145"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_145_jpg.rf.e13323f5797c3c6b51685e190c94c33e.jpg",
+        "label": 0,
+        "prefix": "dogs_145"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_044_jpg.rf.6a0a87043bbd53e9b91e2f04942c39fc.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_044"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_044_jpg.rf.73e2c377b3b2da3382f42918c4bccc62.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_044"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_044_jpg.rf.b9a03759280b81d852e8669dd7de5317.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_044"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-12_jpg.rf.b1c150117a23ccce046be84f1575bf8c.jpg",
+        "label": 0,
+        "prefix": "images-12"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\EPC_SkinHealthy_3_canva_jpg.rf.40bac7bb52ae19d78a2acffda029d848.jpg",
+        "label": 0,
+        "prefix": "EPC_SkinHealthy_3_canva"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_020_jpg.rf.61ba1e7abdf9b9c3a08b273b5b8f01f2.jpg",
+        "label": 0,
+        "prefix": "dogs_020"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_020_jpg.rf.342aeec68088c5d13d13ea084c2bf129.jpg",
+        "label": 0,
+        "prefix": "dogs_020"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_020_jpg.rf.00066c546bd8cb0262c715147b061dc5.jpg",
+        "label": 0,
+        "prefix": "dogs_020"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_141_jpg.rf.16e85255c1ed88d87c8eb232c40d450a.jpg",
+        "label": 0,
+        "prefix": "dogs_141"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_141_jpg.rf.32e9278189250480210fa6faacca0ec0.jpg",
+        "label": 0,
+        "prefix": "dogs_141"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_141_jpg.rf.6e1fbc6824ba5f1af87d980b63567215.jpg",
+        "label": 0,
+        "prefix": "dogs_141"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_039_jpg.rf.e8ffff28f73c0ff54807a07160e6d8c2.jpg",
+        "label": 0,
+        "prefix": "dogs_039"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_039_jpg.rf.c5744fda3daa1701bab0e0e10223a5da.jpg",
+        "label": 0,
+        "prefix": "dogs_039"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_039_jpg.rf.c9de894b71581bc26fc4f139979e3045.jpg",
+        "label": 0,
+        "prefix": "dogs_039"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_025_jpg.rf.41b3a41f8a26b2c6a4eec6c7d6413ee9.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_025"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_025_jpg.rf.8c963580e97073541b0f201ff5191276.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_025"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_025_jpg.rf.bda66a4063e0a99859df5391ea7c3dcd.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_025"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\images-10_jpg.rf.38bb58dea60e96729faa7cb3cd366a30.jpg",
+        "label": 0,
+        "prefix": "images-10"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\088_jpg.rf.1394268b2f116ca9ad8e63a2788fd154.jpg",
+        "label": 0,
+        "prefix": "088"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_3_jpg.rf.54d0722948133edd48299c425fa07e0e.jpg",
+        "label": 0,
+        "prefix": "Image_3"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_3_jpg.rf.43497e7b729341662bc05d4977810249.jpg",
+        "label": 0,
+        "prefix": "Image_3"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_3_jpg.rf.a54093384d03171e8f536b6167f55dd8.jpg",
+        "label": 0,
+        "prefix": "Image_3"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\67_jpg.rf.707243c6d5b9435f3c83c598cf7bf911.jpg",
+        "label": 0,
+        "prefix": "67"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_120_jpg.rf.2d6637341c385294645b2e45556370ff.jpg",
+        "label": 0,
+        "prefix": "dogs_120"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_120_jpg.rf.4d18bf83113ad6476e240a10d4af122b.jpg",
+        "label": 0,
+        "prefix": "dogs_120"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_120_jpg.rf.667603b6e2cfb99075ab4e4d1a4cfef4.jpg",
+        "label": 0,
+        "prefix": "dogs_120"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_28_jpg.rf.3f2167d0603c7d0a6d04ec2f2533f0ce.jpg",
+        "label": 0,
+        "prefix": "Image_28"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_28_jpg.rf.d6f095b598c1109ce39ce2ff59029a9b.jpg",
+        "label": 0,
+        "prefix": "Image_28"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_28_jpg.rf.b2b650b9d962838180619f1447c9a37c.jpg",
+        "label": 0,
+        "prefix": "Image_28"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_016_jpg.rf.38829eed12493ed53e65a76c148e09cc.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_016"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_016_jpg.rf.db6d55f6d735a99b82c9a9e7db2dd19e.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_016"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_016_jpg.rf.0b8780593681168ed6dcf211aca897f4.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_016"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_149_jpg.rf.1146b7d28616cb1e0e72611831bf471a.jpg",
+        "label": 0,
+        "prefix": "dogs_149"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_149_jpg.rf.94ea87816c1e0eb60da12bf40352419d.jpg",
+        "label": 0,
+        "prefix": "dogs_149"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_149_jpg.rf.eef902fc5e956814b6cf61148b28498c.jpg",
+        "label": 0,
+        "prefix": "dogs_149"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_221_jpg.rf.41f81e225c697dcc627579879cb30fe2.jpg",
+        "label": 0,
+        "prefix": "dogs_221"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_221_jpg.rf.cfb21cc56ece0a2d600a3dc76c399ece.jpg",
+        "label": 0,
+        "prefix": "dogs_221"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_221_jpg.rf.5ed9802a56e4121fefa9258f9a987fbf.jpg",
+        "label": 0,
+        "prefix": "dogs_221"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\00_jpg.rf.989c3aa2f2efb8e45b6994ba3685e646.jpg",
+        "label": 0,
+        "prefix": "00"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic19_jpg.rf.1b33cc506aada56b69d650d45ffa4dcc.jpg",
+        "label": 0,
+        "prefix": "pic19"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-1_jpg.rf.d1e130fe8ecebdefcfd637f093b1c3d3.jpg",
+        "label": 0,
+        "prefix": "images-1"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic60_jpg.rf.f37aa4c0308578676ff71ec45421ad24.jpg",
+        "label": 0,
+        "prefix": "pic60"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_024_jpg.rf.3218681ed5c5f3f3011f630badbb2f19.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_024"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_024_jpg.rf.95119b0ca7cb444e6a1330aeed99352d.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_024"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_024_jpg.rf.a48896b653c5e1a66c07dc934d253dd5.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_024"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-13_jpg.rf.31c8b83f7a04adc453eec2eec7b04c18.jpg",
+        "label": 0,
+        "prefix": "images-13"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\images-7_jpg.rf.44cee5b5e5b1fd901dc1fcb8aab422f0.jpg",
+        "label": 0,
+        "prefix": "images-7"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_040_jpg.rf.f75c886ad42a7f318602dd6756bb842b.jpg",
+        "label": 0,
+        "prefix": "dogs_040"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_040_jpg.rf.e4eaf28ca48e3a378df2271b7e31f8a5.jpg",
+        "label": 0,
+        "prefix": "dogs_040"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_040_jpg.rf.e87d30dcc98d625aae1506028bc44765.jpg",
+        "label": 0,
+        "prefix": "dogs_040"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_121_jpg.rf.b6c17fc1a5137b84748ef243a5a56c64.jpg",
+        "label": 0,
+        "prefix": "dogs_121"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_121_jpg.rf.0f73dac4b13731485aca8d860ef80886.jpg",
+        "label": 0,
+        "prefix": "dogs_121"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_017_jpg.rf.98b39cd8029f8d43121a2baefd901dc9.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_017"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_017_jpg.rf.688fb6d00a8f9d22e5d93ef8e2f32136.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_017"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_017_jpg.rf.cb9eecb6b720e4f959c43d106c51d589.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_017"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_116_jpg.rf.4b669307d7a1ff363b46d8a0ea4ec96c.jpg",
+        "label": 0,
+        "prefix": "dogs_116"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_116_jpg.rf.9390e33f64be907e3e1f0daf90fc6d2f.jpg",
+        "label": 0,
+        "prefix": "dogs_116"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_116_jpg.rf.c3dde0512dd62c0d441bb94435d00ba5.jpg",
+        "label": 0,
+        "prefix": "dogs_116"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-44_jpg.rf.32128ebeb8281332820ccbbafb0e717d.jpg",
+        "label": 0,
+        "prefix": "images-44"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic53_jpg.rf.7de54a01873f54897cd8cc232b0632d4.jpg",
+        "label": 0,
+        "prefix": "pic53"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\1-1-_png_jpg.rf.2de5c412768a6dab5343d3d3d903224a.jpg",
+        "label": 0,
+        "prefix": "1-1-_png"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_088_jpg.rf.1988366fbb3034207cc9d940eb60b06a.jpg",
+        "label": 0,
+        "prefix": "dogs_088"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_088_jpg.rf.5c15e4d66375bbad8ba30b4538c1b37a.jpg",
+        "label": 0,
+        "prefix": "dogs_088"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_088_jpg.rf.cd715d8abf153354c122ae0113395d6d.jpg",
+        "label": 0,
+        "prefix": "dogs_088"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\featured-nutrition-skin-dogs_FI_jpg.rf.174ee2a0988c5876552868d265539d7e.jpg",
+        "label": 0,
+        "prefix": "featured-nutrition-skin-dogs_FI"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\004_jpg.rf.f6691548aeea1e36039e8eba9090d1cb.jpg",
+        "label": 0,
+        "prefix": "004"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\images-15_jpg.rf.3f747c364fec0a6b77f4c3993e2c3e23.jpg",
+        "label": 0,
+        "prefix": "images-15"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dog-with-beautiful-fur-e1520959404488_jpg.rf.8ccb1a71e8780c316087a364f5f7df7a.jpg",
+        "label": 0,
+        "prefix": "dog-with-beautiful-fur-e1520959404488"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_013_jpg.rf.109a7fe4868b55476ff18aa00c42ffc4.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_013"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_013_jpg.rf.13d0b61bebfac9e08d69327a058887cb.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_013"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_013_jpg.rf.caf840010c1c8a6d434809c878ae5c31.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_013"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\images-32_jpg.rf.43251f9b65f755784df579d639cd121c.jpg",
+        "label": 0,
+        "prefix": "images-32"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic16_jpg.rf.e9f605115aea691d6e330e768d29c943.jpg",
+        "label": 0,
+        "prefix": "pic16"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\download_jpg.rf.ffa2bbd30493847074b451b9e12a3912.jpg",
+        "label": 0,
+        "prefix": "download"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_046_jpg.rf.6610e9e0a046906680a9e3925de0697f.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_046"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_046_jpg.rf.79740ec8fca141d007737888904d44a1.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_046"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_046_jpg.rf.b2fa0a6f0e4f3ed0dcc27b6043ac924d.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_046"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\pic21_jpg.rf.5bc659b41bb4d377b283d9b1bce3911b.jpg",
+        "label": 0,
+        "prefix": "pic21"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic29_jpg.rf.f87a019ff12fadd8bd3457a5d7e0b5b4.jpg",
+        "label": 0,
+        "prefix": "pic29"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_013_jpg.rf.ac6b7154120fc9e2d3973fb2f4e3d86c.jpg",
+        "label": 0,
+        "prefix": "dogs_013"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_013_jpg.rf.6ffdd311ab1a25329b8e7520b7913282.jpg",
+        "label": 0,
+        "prefix": "dogs_013"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_013_jpg.rf.d77885b6bb5254f8c67c5017ed3d5385.jpg",
+        "label": 0,
+        "prefix": "dogs_013"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-4_jpg.rf.cf38b9c0ef31e9618683c3ceaddc51a6.jpg",
+        "label": 0,
+        "prefix": "images-4"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic43_jpg.rf.5ad76f2a4ae190bc973bab6a0e7764ff.jpg",
+        "label": 0,
+        "prefix": "pic43"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-35_jpg.rf.051b1aad40859ee6ce83dde035cc3722.jpg",
+        "label": 0,
+        "prefix": "images-35"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic17_jpg.rf.5df1675cd8b7f39a9ea69e580f1f8e2a.jpg",
+        "label": 0,
+        "prefix": "pic17"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_030_jpg.rf.05a0cc59ca563bc1f04ac3de6625077c.jpg",
+        "label": 0,
+        "prefix": "dogs_030"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_030_jpg.rf.1e9e1dcad80dbd573518b09c925f627c.jpg",
+        "label": 0,
+        "prefix": "dogs_030"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_030_jpg.rf.23d99775a63c0000d4fd987b7e30a834.jpg",
+        "label": 0,
+        "prefix": "dogs_030"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\536_jpg.rf.517a4fa0e9ae7451058e2812e33165a1.jpg",
+        "label": 0,
+        "prefix": "536"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\images-49_jpg.rf.6c9fa4ddb8f36b4831d54d8d88e5f548.jpg",
+        "label": 0,
+        "prefix": "images-49"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_162_jpg.rf.1a4da29291216f387b580464cf9b068b.jpg",
+        "label": 0,
+        "prefix": "dogs_162"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_162_jpg.rf.80b5a8f9c4b1aa5b866b48c100c67ebd.jpg",
+        "label": 0,
+        "prefix": "dogs_162"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_162_jpg.rf.a5957093ceb1ffc686ff304f99b01a77.jpg",
+        "label": 0,
+        "prefix": "dogs_162"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\shutterstock_31893043-1_jpg.rf.ae090dda4d7a40e0e3688d30fd143d88.jpg",
+        "label": 0,
+        "prefix": "shutterstock_31893043-1"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic32_jpg.rf.a015e7ee20fd16dabdc0fba1cc63d60b.jpg",
+        "label": 0,
+        "prefix": "pic32"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\pic48_jpg.rf.9c4f974eab2326df16a480078c690d1b.jpg",
+        "label": 0,
+        "prefix": "pic48"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-30_jpg.rf.2c4638d573ed54b2f27573fc9c5b052b.jpg",
+        "label": 0,
+        "prefix": "images-30"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_30_jpg.rf.89b4bd191fd09e6a85b63d4259ec65e7.jpg",
+        "label": 0,
+        "prefix": "Image_30"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_30_jpg.rf.bfa1683448777c9a486574d32d3923b9.jpg",
+        "label": 0,
+        "prefix": "Image_30"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic65_jpg.rf.4fea6dd8f973df064792c6832e3e5521.jpg",
+        "label": 0,
+        "prefix": "pic65"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-50_jpg.rf.8d49158df0566b856578355bcc4a062d.jpg",
+        "label": 0,
+        "prefix": "images-50"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic23_jpg.rf.c109c9f5cb2f835cf2d001f47ae51adb.jpg",
+        "label": 0,
+        "prefix": "pic23"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_136_jpg.rf.af8f1c0cb6639d165d8341c120a64f9c.jpg",
+        "label": 0,
+        "prefix": "dogs_136"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_136_jpg.rf.5c3a01acd531c3eb85ae4de5ea9f800b.jpg",
+        "label": 0,
+        "prefix": "dogs_136"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_136_jpg.rf.d37f250d0fee440dfa7f76ffdafa10f4.jpg",
+        "label": 0,
+        "prefix": "dogs_136"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_160_jpg.rf.a94c3d93de245ed4f6d480e4e9507328.jpg",
+        "label": 0,
+        "prefix": "dogs_160"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_160_jpg.rf.c1685e45dedb3ede36039b4c023b242b.jpg",
+        "label": 0,
+        "prefix": "dogs_160"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_160_jpg.rf.ff67496c6d2432fcbb9adba006543623.jpg",
+        "label": 0,
+        "prefix": "dogs_160"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_8_jpg.rf.cd2328cd9621f521d3b8e17cfd47640c.jpg",
+        "label": 0,
+        "prefix": "Image_8"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_8_jpg.rf.872507d6df7cde7f5f2552aeb35e975a.jpg",
+        "label": 0,
+        "prefix": "Image_8"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_25_jpg.rf.8412a7765361e6f848993dc39c968f68.jpg",
+        "label": 0,
+        "prefix": "Image_25"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_25_jpg.rf.fef91304136d861a9ab80fda9daac0dd.jpg",
+        "label": 0,
+        "prefix": "Image_25"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_25_jpg.rf.0a9dbe30d2da7060faeeb216b4da7b41.jpg",
+        "label": 0,
+        "prefix": "Image_25"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic7_jpg.rf.328c15ea227bed802d66695c39fa23eb.jpg",
+        "label": 0,
+        "prefix": "pic7"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\pic31_jpg.rf.55276cc6f5ff29503df5ccee042d34f2.jpg",
+        "label": 0,
+        "prefix": "pic31"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_022_jpg.rf.3dacf3fc2c1b00a3b176209246dc229f.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_022"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_022_jpg.rf.56660b7c205bf9ad7a24a78261fd8fd5.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_022"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_022_jpg.rf.a15a58c8f63517f351f8ec9aca393689.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_022"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_271_jpg.rf.faedfdf7548aeb2b35c5546de0f6f544.jpg",
+        "label": 0,
+        "prefix": "dogs_271"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_271_jpg.rf.19d1158b23f6e2a8ae3292f31ee3ccf5.jpg",
+        "label": 0,
+        "prefix": "dogs_271"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_271_jpg.rf.881b98f0844308d365304fecf47390a4.jpg",
+        "label": 0,
+        "prefix": "dogs_271"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_131_jpg.rf.50353209a22f515930b1e1cb80cdae18.jpg",
+        "label": 0,
+        "prefix": "dogs_131"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_131_jpg.rf.9e08bd1f57e802bdd52bb23c5505fae7.jpg",
+        "label": 0,
+        "prefix": "dogs_131"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_131_jpg.rf.fdd7e82a531ce01e2e37d13eb6b6f89c.jpg",
+        "label": 0,
+        "prefix": "dogs_131"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-26_jpg.rf.b54b3a10bf1ea4cc1eeb409dd8e35ddf.jpg",
+        "label": 0,
+        "prefix": "images-26"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-42_jpg.rf.64ef419717fed4b22da42a096bc6e528.jpg",
+        "label": 0,
+        "prefix": "images-42"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-59_jpg.rf.7e1cfed43148900c4877b04f9de12e9a.jpg",
+        "label": 0,
+        "prefix": "images-59"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_057_jpg.rf.0b70878e8b415cb0698d7e9793c3eaad.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_057"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_057_jpg.rf.d9739493d4e2ae8a801767d5934a9833.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_057"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_057_jpg.rf.da0a23a68808fee7a2fa3a6f11d6d706.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_057"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\255_jpg.rf.7c3e3b22462debaa45319c1189549792.jpg",
+        "label": 0,
+        "prefix": "255"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Untitled-design-2020-06-15T212709-126-1_png_jpg.rf.b568128e26b65b966cbd64df3020583c.jpg",
+        "label": 0,
+        "prefix": "Untitled-design-2020-06-15T212709-126-1_png"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_137_jpg.rf.044fcc1e5c8d46ad29e0b4409c9eb0e7.jpg",
+        "label": 0,
+        "prefix": "dogs_137"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_137_jpg.rf.4ce84bf8e88e0785b307c00c0b66a221.jpg",
+        "label": 0,
+        "prefix": "dogs_137"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_137_jpg.rf.92d10211ed534c0db33f530261ce5641.jpg",
+        "label": 0,
+        "prefix": "dogs_137"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_032_jpg.rf.81caf68ea4ab4a1ce45933d4c18166d1.jpg",
+        "label": 0,
+        "prefix": "dogs_032"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_032_jpg.rf.b65d02d6c14c8e555ae777af41bc3163.jpg",
+        "label": 0,
+        "prefix": "dogs_032"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_032_jpg.rf.c25393a9d4eaa4224e80affd23de1ed7.jpg",
+        "label": 0,
+        "prefix": "dogs_032"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic68_jpg.rf.238c0476bc2399f7c2037f0302c55f65.jpg",
+        "label": 0,
+        "prefix": "pic68"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_12_jpg.rf.c789732c472266741e684c819725ae7e.jpg",
+        "label": 0,
+        "prefix": "Image_12"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_12_jpg.rf.294aff36de7f451b0b2b3b21a7f033fd.jpg",
+        "label": 0,
+        "prefix": "Image_12"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_12_jpg.rf.f8a60c4a3953ecbe639e1f5568e2ab81.jpg",
+        "label": 0,
+        "prefix": "Image_12"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\094_jpg.rf.91220fbabb151fb08904f793ec3d42e0.jpg",
+        "label": 0,
+        "prefix": "094"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_044_jpg.rf.0bb1fc63615c8cd852acd6371af8a594.jpg",
+        "label": 0,
+        "prefix": "dogs_044"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_044_jpg.rf.8dd9edb6e9eb1b8efa5c854be8d9012a.jpg",
+        "label": 0,
+        "prefix": "dogs_044"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_044_jpg.rf.d34c21e76f097bb36343613b43e8011b.jpg",
+        "label": 0,
+        "prefix": "dogs_044"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic5_jpg.rf.ac2a7b82941e05936463ad5fe3dfd6af.jpg",
+        "label": 0,
+        "prefix": "pic5"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\assets_blog_10WaystoImproveDogsSkinandCoat_1604617807349-brown-fluffly-dog-laying-on-bed-with-health-coat_jpg.rf.cd860cd0e877a9b9b8105a29697df102.jpg",
+        "label": 0,
+        "prefix": "assets_blog_10WaystoImproveDogsSkinandCoat_1604617807349-brown-fluffly-dog-laying-on-bed-with-health-coat"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic22_jpg.rf.94dee61066749946877f4c241454f1d5.jpg",
+        "label": 0,
+        "prefix": "pic22"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_275_jpg.rf.b19635b47a2168b7a7c91e8fad8113a0.jpg",
+        "label": 0,
+        "prefix": "dogs_275"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_275_jpg.rf.b6f7e88de6459bc26564cce8d61aa54f.jpg",
+        "label": 0,
+        "prefix": "dogs_275"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_275_jpg.rf.2d05b81c85ad47c04f609a9555063ccc.jpg",
+        "label": 0,
+        "prefix": "dogs_275"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\pic10_jpg.rf.f4a1cea55fcf082d22fe249df55e5ff0.jpg",
+        "label": 0,
+        "prefix": "pic10"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic83_jpg.rf.adc352cff0d211210590426bf1d45686.jpg",
+        "label": 0,
+        "prefix": "pic83"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-46_jpg.rf.b7a4af0d369713853287fe9b435e58e0.jpg",
+        "label": 0,
+        "prefix": "images-46"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_036_jpg.rf.c80e5faf67b6c3b34c7384d2c6e3bfe2.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_036"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_036_jpg.rf.e47a135707c9f1f16d2b9e29163b4a50.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_036"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\42_jpg.rf.34859df02959e3dc01736b5e6b4e6256.jpg",
+        "label": 0,
+        "prefix": "42"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Puppy-Basics-Keeping-Your-Puppy-s-Skin-and-Coat-Healthy-mob_png_jpg.rf.406f18c6bfe3ce5ab3dd4368ef5c5c89.jpg",
+        "label": 0,
+        "prefix": "Puppy-Basics-Keeping-Your-Puppy-s-Skin-and-Coat-Healthy-mob_png"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_056_jpg.rf.86bbb7a09fd89750ea36b76bfa840772.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_056"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_056_jpg.rf.b194f441f6cedfc5460c52280a44f92e.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_056"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_056_jpg.rf.d3d13e38c9eaec75611d6b1ecdd8ef17.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_056"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_083_jpg.rf.becc0266d2e68e4d3dd113d25fb127d7.jpg",
+        "label": 0,
+        "prefix": "dogs_083"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_083_jpg.rf.e63b3fca51422003767c6ccbefbb7ec4.jpg",
+        "label": 0,
+        "prefix": "dogs_083"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_083_jpg.rf.d7bdd8bd18fda58c8d84e28eb0e283da.jpg",
+        "label": 0,
+        "prefix": "dogs_083"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_106_jpg.rf.1e929ed5d743673ced73175e89f393e5.jpg",
+        "label": 0,
+        "prefix": "dogs_106"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_106_jpg.rf.e1ab54a5c82d7059e59b75fb4664b1e4.jpg",
+        "label": 0,
+        "prefix": "dogs_106"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_106_jpg.rf.f521789741479f5db243cb56b381b447.jpg",
+        "label": 0,
+        "prefix": "dogs_106"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_032_jpg.rf.1a079cf1996575c07d258c5d1b8d7ed9.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_032"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_032_jpg.rf.f52f139d9a59fb0ac5725a79740c6c92.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_032"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_032_jpg.rf.d3c1a8d9dc983a8a23f3ea7d87b67d40.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_032"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_096_jpg.rf.1c132bc3c9c677933c527fde4a56e9d9.jpg",
+        "label": 0,
+        "prefix": "dogs_096"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_096_jpg.rf.22e968425da3b794b0477d11df173125.jpg",
+        "label": 0,
+        "prefix": "dogs_096"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_096_jpg.rf.9e36df35ae798f892e0b2d6f78432a60.jpg",
+        "label": 0,
+        "prefix": "dogs_096"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_255_jpg.rf.9e70dc00328cc863fe2aefb1ef851579.jpg",
+        "label": 0,
+        "prefix": "dogs_255"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_255_jpg.rf.9ee2664b43a7f2a48b27f251a628974b.jpg",
+        "label": 0,
+        "prefix": "dogs_255"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic42_jpg.rf.557a2c8de601cb7fd6a846161fc397c7.jpg",
+        "label": 0,
+        "prefix": "pic42"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic37_jpg.rf.5818221b04c02fbf4d9bd67d10539850.jpg",
+        "label": 0,
+        "prefix": "pic37"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\GettyImages-665692493-93a3738e52764fbda4e65a509230d470_jpg.rf.0ff89eb0143ad01c3671e36d53a594c0.jpg",
+        "label": 0,
+        "prefix": "GettyImages-665692493-93a3738e52764fbda4e65a509230d470"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic59_jpg.rf.cd939a886d82ea820e280ffab8fcd008.jpg",
+        "label": 0,
+        "prefix": "pic59"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic57_jpg.rf.f084240cabe3175cf30f53bbcd34f94e.jpg",
+        "label": 0,
+        "prefix": "pic57"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_008_jpg.rf.418b3a840570b504ea4e1042de9f8078.jpg",
+        "label": 0,
+        "prefix": "dogs_008"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_008_jpg.rf.d266bbbe26c8d5a358f367796f0850b4.jpg",
+        "label": 0,
+        "prefix": "dogs_008"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_008_jpg.rf.2693d08bfc8e83cb69a92ac0d763ad75.jpg",
+        "label": 0,
+        "prefix": "dogs_008"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_11_jpg.rf.5d7f760bdf0387e03a6f91c0ab6c948b.jpg",
+        "label": 0,
+        "prefix": "Image_11"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_11_jpg.rf.846e4d0eccb36f2b699bc1836cc36859.jpg",
+        "label": 0,
+        "prefix": "Image_11"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_11_jpg.rf.a5959368147a5f992e20088c97b2dd8e.jpg",
+        "label": 0,
+        "prefix": "Image_11"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\075_jpg.rf.f10d5301e05f89372e15d834b4ed7cee.jpg",
+        "label": 0,
+        "prefix": "075"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\36_jpg.rf.4b6ff6cd8bdefc750b8ee291e543bf20.jpg",
+        "label": 0,
+        "prefix": "36"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_047_jpg.rf.c7c631800b57499cd302b8bd3d681dba.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_047"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_047_jpg.rf.ffa88777ca2774a8f901e3fa394d4ab3.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_047"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_047_jpg.rf.b75efee20d3b42b1aa37739d5c8d5ffc.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_047"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic14_jpg.rf.a43e3d621fa02ec27de0887a9414a1ad.jpg",
+        "label": 0,
+        "prefix": "pic14"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_094_jpg.rf.8279ae5620fb8080deb66777390a5f09.jpg",
+        "label": 0,
+        "prefix": "dogs_094"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_094_jpg.rf.e0e21a708293b1ba3e067956dee058d3.jpg",
+        "label": 0,
+        "prefix": "dogs_094"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_011_jpg.rf.88489bba0d3278a75407196007ffc62f.jpg",
+        "label": 0,
+        "prefix": "dogs_011"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_011_jpg.rf.7d10e4d45bb55bb52b2ad5f4685287ad.jpg",
+        "label": 0,
+        "prefix": "dogs_011"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-55_jpg.rf.16214de54af17c2905f31425e24b7542.jpg",
+        "label": 0,
+        "prefix": "images-55"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\60_jpg.rf.238cca30d857a5732c0cd49f6b44a72c.jpg",
+        "label": 0,
+        "prefix": "60"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_118_jpg.rf.2e1c0b01b9981763f567011a1cd2ce7b.jpg",
+        "label": 0,
+        "prefix": "dogs_118"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_118_jpg.rf.8c2d1372b356972a8cf064daf9b09d9a.jpg",
+        "label": 0,
+        "prefix": "dogs_118"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_118_jpg.rf.927cb1334e65d058c235264231318758.jpg",
+        "label": 0,
+        "prefix": "dogs_118"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_012_jpg.rf.068365613f551f9e978ed4b3021cec04.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_012"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_012_jpg.rf.611e0b6cfc2e4d70ae52e656b737319d.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_012"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_012_jpg.rf.869fe4f78f2e421a6642639f06174e4c.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_012"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\images-47_jpg.rf.19077f2e35e19bae8306af23a76cee82.jpg",
+        "label": 0,
+        "prefix": "images-47"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_272_jpg.rf.427f5ff871022d84222a3791373fa7ee.jpg",
+        "label": 0,
+        "prefix": "dogs_272"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_272_jpg.rf.7f3e116936f1e06cf872a438c06045d2.jpg",
+        "label": 0,
+        "prefix": "dogs_272"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_272_jpg.rf.a6c2a6d569cad239e7f422e8849eac2e.jpg",
+        "label": 0,
+        "prefix": "dogs_272"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\071_jpg.rf.724ce80e25927217427dc39c552f9e25.jpg",
+        "label": 0,
+        "prefix": "071"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_9_jpg.rf.14564051eed6e6ddfbadb02edf8825b8.jpg",
+        "label": 0,
+        "prefix": "Image_9"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_9_jpg.rf.1e2ffc00392e0b8abc1b347159cfdffa.jpg",
+        "label": 0,
+        "prefix": "Image_9"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_9_jpg.rf.1f1a0648c08adc76c6e0e6838cf55535.jpg",
+        "label": 0,
+        "prefix": "Image_9"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_9_jpg.rf.823ea8c986a5eead0c4c4d0a74159fe7.jpg",
+        "label": 0,
+        "prefix": "Image_9"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_9_jpg.rf.d9d7140a2f77b9b342b74e93b91a46ca.jpg",
+        "label": 0,
+        "prefix": "Image_9"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_9_jpg.rf.99788b2c41ce48033edb8038f6952bef.jpg",
+        "label": 0,
+        "prefix": "Image_9"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic27_jpg.rf.df5d62fe0cbdcff2c001c7cf06b830ba.jpg",
+        "label": 0,
+        "prefix": "pic27"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_069_jpg.rf.562a0c8dc89d774e0410dd82be793800.jpg",
+        "label": 0,
+        "prefix": "dogs_069"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_069_jpg.rf.c8daaa48774b3981124d2339e3cfc553.jpg",
+        "label": 0,
+        "prefix": "dogs_069"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_069_jpg.rf.f9b46710d0c072d7cf7f11573333c5cc.jpg",
+        "label": 0,
+        "prefix": "dogs_069"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_087_jpg.rf.2218b4d801e144151324cfb1055dcc4f.jpg",
+        "label": 0,
+        "prefix": "dogs_087"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_087_jpg.rf.e4178ed04c4ef4c8d1cae08d17a8f8f5.jpg",
+        "label": 0,
+        "prefix": "dogs_087"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_087_jpg.rf.782df1f9979db80ad9b34fb9dd376d11.jpg",
+        "label": 0,
+        "prefix": "dogs_087"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Blog-Hero-1_jpg.rf.7f28e73ab60c6f9b38e214a07aeb2ee7.jpg",
+        "label": 0,
+        "prefix": "Blog-Hero-1"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_119_jpg.rf.463b3366de4370db6f4f6c91924fb096.jpg",
+        "label": 0,
+        "prefix": "dogs_119"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_119_jpg.rf.6ca3950b0a8aaabf88633eae8c865aa3.jpg",
+        "label": 0,
+        "prefix": "dogs_119"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_119_jpg.rf.c80c17765ea9f9f1105d5eb5206112e3.jpg",
+        "label": 0,
+        "prefix": "dogs_119"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic61_jpg.rf.2ad61eac459297c5485d47ada62d2133.jpg",
+        "label": 0,
+        "prefix": "pic61"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic69_jpg.rf.96cfa2aa5e65000263b44a6da217fe34.jpg",
+        "label": 0,
+        "prefix": "pic69"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_054_jpg.rf.85706ac5ca3f44c12faf960a20405b1e.jpg",
+        "label": 0,
+        "prefix": "dogs_054"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_054_jpg.rf.c259d27731c2fb93c8b589c7a7cea211.jpg",
+        "label": 0,
+        "prefix": "dogs_054"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_054_jpg.rf.8ba6cc962df4a64e1c61d315e7b0f75c.jpg",
+        "label": 0,
+        "prefix": "dogs_054"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_059_jpg.rf.a7be8bcf79d136a87ec4c8203404a0e3.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_059"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_059_jpg.rf.fba1ca30b4230fe03784250c76b12162.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_059"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_028_jpg.rf.ae95ebc9da5bbe462ad863610c1977bb.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_028"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_028_jpg.rf.c80dd98fc912c65d83c0d83059e45ee7.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_028"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_028_jpg.rf.ce744333a45fc35ae0dd50b27531273d.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_028"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\pic47_jpg.rf.fbb0edd32864af711a4cf2ee5ddfb1b0.jpg",
+        "label": 0,
+        "prefix": "pic47"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_060_jpg.rf.4757f27ba81a1067f4df0b2b4756efc4.jpg",
+        "label": 0,
+        "prefix": "dogs_060"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_060_jpg.rf.7abc128ff12c052fb7e4eb16ca9648ba.jpg",
+        "label": 0,
+        "prefix": "dogs_060"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_060_jpg.rf.35c82b8a0be6d9ba5386ba3f31449bc5.jpg",
+        "label": 0,
+        "prefix": "dogs_060"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic64_jpg.rf.949f8642045425b37c48d044cc3bc75e.jpg",
+        "label": 0,
+        "prefix": "pic64"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_030_jpg.rf.9367e1b0e5b084a1888a97700e52f143.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_030"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_030_jpg.rf.d2d93b87629dc89152c04783c4a4cf66.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_030"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_030_jpg.rf.8a6d1349a5957995ab9b60f9af4a3036.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_030"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\009_jpg.rf.1fd488f91d5c31fe42c60a0d377563aa.jpg",
+        "label": 0,
+        "prefix": "009"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_000_jpg.rf.0f04ed07e575aa73fbb357930c80f595.jpg",
+        "label": 0,
+        "prefix": "dogs_000"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\pic2_jpg.rf.7f647b24bfbca1cba094fe8c442ed6f3.jpg",
+        "label": 0,
+        "prefix": "pic2"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_231_jpg.rf.4bb17c857c2f28e9579861679dfb73ab.jpg",
+        "label": 0,
+        "prefix": "dogs_231"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_231_jpg.rf.766755fc1501b720617828b81c3c2568.jpg",
+        "label": 0,
+        "prefix": "dogs_231"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HK0P2T-1-920x518_jpg.rf.86436bea5e5f5ac61aa3b7da94c45093.jpg",
+        "label": 0,
+        "prefix": "HK0P2T-1-920x518"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_150_jpg.rf.8410736a47d707682ba9f9846271b0d1.jpg",
+        "label": 0,
+        "prefix": "dogs_150"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_150_jpg.rf.18fb134221add7a4b3c15d379727e809.jpg",
+        "label": 0,
+        "prefix": "dogs_150"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_150_jpg.rf.4cf82be19afeeb02ac14329920ec24b4.jpg",
+        "label": 0,
+        "prefix": "dogs_150"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic67_jpg.rf.eece38f7eba6cfd9523200577b1d74f1.jpg",
+        "label": 0,
+        "prefix": "pic67"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\pic49_jpg.rf.8cdf11860fd986e3d7971f5ddef0db65.jpg",
+        "label": 0,
+        "prefix": "pic49"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_050_jpg.rf.72a7d23b8e98bdfb1029590e7d81856e.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_050"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_050_jpg.rf.e2fdd30440456807043420a4454e1ac2.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_050"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_050_jpg.rf.9d3f19e2e3d2999fb9600f9bda2d7663.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_050"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-9_jpg.rf.2e37eb970756c69d0d32af38fdda6697.jpg",
+        "label": 0,
+        "prefix": "images-9"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\030_jpg.rf.49d261b19fba40b41edef8b16b528773.jpg",
+        "label": 0,
+        "prefix": "030"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\pic26_jpg.rf.3aede121b8af8c83cb4ebc75356dd1dc.jpg",
+        "label": 0,
+        "prefix": "pic26"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-29_jpg.rf.ffae223582200700088276853688f53c.jpg",
+        "label": 0,
+        "prefix": "images-29"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_15_jpg.rf.6ada62418eb176fcef9fcba3077da8ed.jpg",
+        "label": 0,
+        "prefix": "Image_15"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_15_jpg.rf.9ab337fd8a61c51e447650efa138d090.jpg",
+        "label": 0,
+        "prefix": "Image_15"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_15_jpg.rf.1c1726016c2721aa16f939a7c193c391.jpg",
+        "label": 0,
+        "prefix": "Image_15"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_060_jpg.rf.40cfeb8fc0d7c2a8f19a3083c4341793.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_060"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_060_jpg.rf.6c4a814384975ab20b9a225ae66d0b97.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_060"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_060_jpg.rf.f5593a2be8097621271132194ab47ece.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_060"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\890_jpg.rf.9b753d65e4befd4c0c3a435e2e121e71.jpg",
+        "label": 0,
+        "prefix": "890"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\037_jpg.rf.7caee69399a0711eaddf98bb898c0a75.jpg",
+        "label": 0,
+        "prefix": "037"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\039_jpg.rf.10683c065c6458043aa8ee72929a18a7.jpg",
+        "label": 0,
+        "prefix": "039"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_152_jpg.rf.2f62f16b40ebc90f7ac461faa34050d3.jpg",
+        "label": 0,
+        "prefix": "dogs_152"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_152_jpg.rf.4823c2192ea9fb6467d3426d303fc748.jpg",
+        "label": 0,
+        "prefix": "dogs_152"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_152_jpg.rf.e4022c68abdf1bd0132ac024c51d05f0.jpg",
+        "label": 0,
+        "prefix": "dogs_152"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic20_jpg.rf.e6135f1f05a12144452824ed0c7cdb8e.jpg",
+        "label": 0,
+        "prefix": "pic20"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\666_jpg.rf.a57296a4c12c4b0ce2403d5e9a2caa3c.jpg",
+        "label": 0,
+        "prefix": "666"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-51_jpg.rf.571cc7c3f473de9d910a1341949b142c.jpg",
+        "label": 0,
+        "prefix": "images-51"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic63_jpg.rf.a63a0b6a44563cf914b75671a254e315.jpg",
+        "label": 0,
+        "prefix": "pic63"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\GettyImages-91782737-57113e1e3df78c3fa2acad08_jpg.rf.cc46eba4b9513fff3554fca176ee390e.jpg",
+        "label": 0,
+        "prefix": "GettyImages-91782737-57113e1e3df78c3fa2acad08"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_020_jpg.rf.b4bdc953aaee3f7f5802f0e283ac9d60.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_020"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_020_jpg.rf.a22fa26da6dcb6254edae8f89e60afac.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_020"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_020_jpg.rf.c824e8c72f8ef628301a1663688e227e.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_020"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_10_jpg.rf.f0dc276e4aaa368353060290d266039b.jpg",
+        "label": 0,
+        "prefix": "Image_10"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_24_jpg.rf.0b7763c46c7aadd6db409a03ad33a2cb.jpg",
+        "label": 0,
+        "prefix": "Image_24"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_24_jpg.rf.b2ef0e89d65b8c425261351b17b9266a.jpg",
+        "label": 0,
+        "prefix": "Image_24"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_24_jpg.rf.cf0654f07c28b79c49d435a36845bd3c.jpg",
+        "label": 0,
+        "prefix": "Image_24"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_24_jpg.rf.0be95695f0d50fc25932d810bb14286b.jpg",
+        "label": 0,
+        "prefix": "Image_24"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_24_jpg.rf.909e14b45705d8717e07a508a9423dca.jpg",
+        "label": 0,
+        "prefix": "Image_24"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_24_jpg.rf.b89093071ff1433e6670a409a2e92bc3.jpg",
+        "label": 0,
+        "prefix": "Image_24"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\c82ea9335c2a7303e5963f5c5bf6e5db_jpg.rf.1659cf26d0e46af60bdc9a25d1239e51.jpg",
+        "label": 0,
+        "prefix": "c82ea9335c2a7303e5963f5c5bf6e5db"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\028_jpg.rf.09b7584b4337f06e302a81beffada0c5.jpg",
+        "label": 0,
+        "prefix": "028"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_006_jpg.rf.54ab882b8af1616d38686cda82a26db6.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_006"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_006_jpg.rf.dc67bb8cc228c3e27e311280bc5dcdc2.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_006"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_006_jpg.rf.f8ff3920d9edfcd8a05f21244c2a5a39.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_006"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\pic44_jpg.rf.0e83f6afc957a2d7be606ff885d79f59.jpg",
+        "label": 0,
+        "prefix": "pic44"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363938_png.rf.5ffd399588fa19638504b80698afcfa9.jpg",
+        "label": 1,
+        "prefix": "363938"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363938_png.rf.7c9b37a9c9cb49a0685fa30b05d5e9fd.jpg",
+        "label": 1,
+        "prefix": "363938"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363938_png.rf.ae1956ba91b60697fd427cb449a079bc.jpg",
+        "label": 1,
+        "prefix": "363938"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.35b0aa598c36163506b90be5ef6b9fdd.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.366c86baf79a04da671c0d12550ca23e.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.4ad1f0a8b48353d4f4a78debf1805b0f.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.52e769e73264a265c9f78d894ec79276.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.65555b03009f1b11ff5ffca4ab7a3ec0.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.bbae5b3579eefcd2428f86782e62a065.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.c9ca3c5015da6c9cf364fde6172e007f.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.f28df18effa8ec4f35a4be5cd20d584d.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-2_jpg.rf.fce8f8de03c4ff6b1a74fb3fb42d7700.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\-2_jpg.rf.7e3e8463733e7048818fec89faa1b02b.jpg",
+        "label": 1,
+        "prefix": "-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-_jpg.rf.5cf657687d2952bfeb87b0ed31426ae0.jpg",
+        "label": 1,
+        "prefix": "-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-_jpg.rf.a565c0c81977d1d0b3e07ea28739f20b.jpg",
+        "label": 1,
+        "prefix": "-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-_jpg.rf.ba650d894effdeeb12faf35cd5464a09.jpg",
+        "label": 1,
+        "prefix": "-"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\-_jpg.rf.1e9d5231cc41643a98905de54cde14bb.jpg",
+        "label": 1,
+        "prefix": "-"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\-_jpg.rf.673929fb0fd16cc97ebad8508bde3db9.jpg",
+        "label": 1,
+        "prefix": "-"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\-_jpg.rf.6868221aa46168b304f44c90afe98123.jpg",
+        "label": 1,
+        "prefix": "-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\2019032502_jpg.rf.4771d3e4e6efa1f4232db0bef0889e7c.jpg",
+        "label": 1,
+        "prefix": "2019032502"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\2019032502_jpg.rf.9e77bf0eeea5f835c1e1300cf7ee42e9.jpg",
+        "label": 1,
+        "prefix": "2019032502"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\2019032502_jpg.rf.e804396f35b0d302530839381fb2937c.jpg",
+        "label": 1,
+        "prefix": "2019032502"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\20210220003580_jpg.rf.b9d107c2d4c2b1dad17f90746089a1f7.jpg",
+        "label": 1,
+        "prefix": "20210220003580"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\20210220003580_jpg.rf.d44074bb9c296735c0eeccf0d42eda30.jpg",
+        "label": 1,
+        "prefix": "20210220003580"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\20210220003580_jpg.rf.eb97372b71dc2cb548c6e19de81781f4.jpg",
+        "label": 1,
+        "prefix": "20210220003580"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363426_png.rf.19f60d8bf899e8803270d886a7d3edab.jpg",
+        "label": 1,
+        "prefix": "363426"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363426_png.rf.6833e0af2ca84d8c578b1f1e3c6eecfc.jpg",
+        "label": 1,
+        "prefix": "363426"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363426_png.rf.92f61da1fa068b917f02e327ade85b20.jpg",
+        "label": 1,
+        "prefix": "363426"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\2132312_jpg.rf.5d3499b9429a5fe1566d186fc6445e6a.jpg",
+        "label": 1,
+        "prefix": "2132312"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\dog_png.rf.77763daaee556ffef38fe072f4d611b5.jpg",
+        "label": 1,
+        "prefix": "dog"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\dog_png.rf.b1dff9f40e7b9cfb5712e372f903679e.jpg",
+        "label": 1,
+        "prefix": "dog"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\dog_png.rf.e9c7d7796a50a6b484d30b2712c5a752.jpg",
+        "label": 1,
+        "prefix": "dog"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\cat-2-_png.rf.7b526c226a6a3de166f6cad6b8b9da6a.jpg",
+        "label": 1,
+        "prefix": "cat-2-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\6ffae681f9f29c7a_jpg.rf.0c1f527f8e12c46c899ab5f7958c3e20.jpg",
+        "label": 1,
+        "prefix": "6ffae681f9f29c7a"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\6ffae681f9f29c7a_jpg.rf.9910ea8b869d36849161262c18dc17c3.jpg",
+        "label": 1,
+        "prefix": "6ffae681f9f29c7a"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\6ffae681f9f29c7a_jpg.rf.9edfbe320f4014997825767876cff334.jpg",
+        "label": 1,
+        "prefix": "6ffae681f9f29c7a"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1280_jpeg.rf.2666673e88dba6ac00ba3cd3e3369a56.jpg",
+        "label": 1,
+        "prefix": "1280"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1280_jpeg.rf.679a4631d334c5d4c17e0920004078ee.jpg",
+        "label": 1,
+        "prefix": "1280"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1280_jpeg.rf.a34d2c4c11d2a51f397cea7af7db4b20.jpg",
+        "label": 1,
+        "prefix": "1280"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\img_1348_jpg.rf.c5e5ca9c084f0f3a70c301f04ba641d0.jpg",
+        "label": 1,
+        "prefix": "img_1348"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\img_1348_jpg.rf.e866e445f8328567227d06e9ae9cbfe5.jpg",
+        "label": 1,
+        "prefix": "img_1348"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\img_1348_jpg.rf.ff61f068f0386fe4907ea01aed8ab558.jpg",
+        "label": 1,
+        "prefix": "img_1348"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\mobile01-59848e11a6eb12545ef2d638e24e185b_jpg.rf.0632fdc26b00dbaade8ec9bf9913616c.jpg",
+        "label": 1,
+        "prefix": "mobile01-59848e11a6eb12545ef2d638e24e185b"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\mobile01-59848e11a6eb12545ef2d638e24e185b_jpg.rf.5e4d51f8fdd5d2e7a4c232745a9054bf.jpg",
+        "label": 1,
+        "prefix": "mobile01-59848e11a6eb12545ef2d638e24e185b"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\mobile01-59848e11a6eb12545ef2d638e24e185b_jpg.rf.a5444d971737df5d8eb68d00240070ba.jpg",
+        "label": 1,
+        "prefix": "mobile01-59848e11a6eb12545ef2d638e24e185b"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1-1617837_jpg.rf.53e1865000231b909c4df37ca4a00852.jpg",
+        "label": 1,
+        "prefix": "1-1617837"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1-1617837_jpg.rf.692771b58551115951f4ece6b8bb63dd.jpg",
+        "label": 1,
+        "prefix": "1-1617837"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1-1617837_jpg.rf.ab59ecf10000a7158155436f6f0346e0.jpg",
+        "label": 1,
+        "prefix": "1-1617837"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\e7461275_jpg.rf.0678aca10d62cb31e51499e6536fcc0e.jpg",
+        "label": 1,
+        "prefix": "e7461275"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\0_jpg.rf.36db8ce69810bfdc64219d31794ea718.jpg",
+        "label": 1,
+        "prefix": "0"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\0_jpg.rf.abc2cf7453654a6569e606f9ed20669c.jpg",
+        "label": 1,
+        "prefix": "0"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\0_jpg.rf.d3152894cf234a2f72ac79be22c2303e.jpg",
+        "label": 1,
+        "prefix": "0"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\358735_png.rf.a811f3b4dca93010cb21a5b1395b4872.jpg",
+        "label": 1,
+        "prefix": "358735"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-1-_png.rf.061b7d96ed6e76e007434cc774bd2a7e.jpg",
+        "label": 1,
+        "prefix": "cat-1-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-1-_png.rf.1442f7c143215b4fc7bb6ed308f5b37d.jpg",
+        "label": 1,
+        "prefix": "cat-1-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-1-_png.rf.2955823248336715108526bcab0c64e2.jpg",
+        "label": 1,
+        "prefix": "cat-1-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\d145720_jpg.rf.7c72399d7ecddaa3e8a739d214f1fbad.jpg",
+        "label": 1,
+        "prefix": "d145720"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\d145720_jpg.rf.80051e3a6889943493df9a6802345902.jpg",
+        "label": 1,
+        "prefix": "d145720"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\d145720_jpg.rf.dbbc6240824c705078796d5d09d65879.jpg",
+        "label": 1,
+        "prefix": "d145720"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-6-_png.rf.382c15b3e4183f5e684407d898499ab8.jpg",
+        "label": 1,
+        "prefix": "cat-6-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-6-_png.rf.95118325b890d40e782212a9b8447d07.jpg",
+        "label": 1,
+        "prefix": "cat-6-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-6-_png.rf.d1b0931c0e023b5b8d0f5866fea70c31.jpg",
+        "label": 1,
+        "prefix": "cat-6-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-4_jpg.rf.4ad5a6d4350a760f9d3ec5818803de7b.jpg",
+        "label": 1,
+        "prefix": "-4"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-4_jpg.rf.61d3f707238608758402f220785a2fc0.jpg",
+        "label": 1,
+        "prefix": "-4"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-4_jpg.rf.62d4ac098c16913dc4725fe6d6457492.jpg",
+        "label": 1,
+        "prefix": "-4"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\-4_jpg.rf.5baaf883b4fd33339f439975d14140c2.jpg",
+        "label": 1,
+        "prefix": "-4"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\300-0-1_jpg.rf.72885c6f67107c276c3f94068a931f72.jpg",
+        "label": 1,
+        "prefix": "300-0-1"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1_jpg.rf.8569273061b086e0486c8de420114d02.jpg",
+        "label": 1,
+        "prefix": "1"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1_jpg.rf.a74a780e629248a056380cd383d4df61.jpg",
+        "label": 1,
+        "prefix": "1"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\1_jpg.rf.d0a24581100a329057f609049b3dc30a.jpg",
+        "label": 1,
+        "prefix": "1"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\01_379_jpg.rf.d5c0270bfbfdf8ebc7bf554bfb98a7fa.jpg",
+        "label": 1,
+        "prefix": "01_379"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363680_png.rf.2e5b9468ff8148f1ab360c7d85d6755f.jpg",
+        "label": 1,
+        "prefix": "363680"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363680_png.rf.6014ef092130a9bd58107736d921afbe.jpg",
+        "label": 1,
+        "prefix": "363680"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\363680_png.rf.9a32de2c6145a6809d87d3c7929b339c.jpg",
+        "label": 1,
+        "prefix": "363680"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\w700d1q75cms_jpg.rf.31547fce451890927c02f459cea5bc5b.jpg",
+        "label": 1,
+        "prefix": "w700d1q75cms"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images_jpg.rf.a62401bd8ebad0279a0491db1fe5b3cb.jpg",
+        "label": 0,
+        "prefix": "images"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\images_jpg.rf.4a0e42378e68bcd10567b31d764dfecc.jpg",
+        "label": 1,
+        "prefix": "images"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\images_jpg.rf.81a4af015da7931c152d05e7a8bec1b1.jpg",
+        "label": 1,
+        "prefix": "images"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\images_jpg.rf.eb42e72efff411d5bf43eabb94a09975.jpg",
+        "label": 1,
+        "prefix": "images"
+      }
+    ],
+    "valid": [
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_040_jpg.rf.5df7c47868712037cd1b3a8dca8aec87.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_040"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_040_jpg.rf.61f4aa1743b98418ac7dfa1af072deeb.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_040"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_040_jpg.rf.8d26bb63e8d39cdca3e199b2d945cab0.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_040"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\022_jpg.rf.0c55131f2912918b171b1b0c3e5bea9e.jpg",
+        "label": 0,
+        "prefix": "022"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_154_jpg.rf.2c83d865ad40caead6eeb15f2c5d0b77.jpg",
+        "label": 0,
+        "prefix": "dogs_154"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_154_jpg.rf.db58f6ba38f4adf0394658b48e637e46.jpg",
+        "label": 0,
+        "prefix": "dogs_154"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_154_jpg.rf.ecddab83d018f753bcdcdd117644c11e.jpg",
+        "label": 0,
+        "prefix": "dogs_154"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_021_jpg.rf.cddbb1dbbaf0178ae8be046ce1b9c6f6.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_021"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_021_jpg.rf.4e0fc9e73bf2a2b06768e8c6d9588ee9.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_021"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_067_jpg.rf.9efe757738587d5fbcb79ed70bda06e0.jpg",
+        "label": 0,
+        "prefix": "dogs_067"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_245_jpg.rf.00ea907249afd9ad448122585791631d.jpg",
+        "label": 0,
+        "prefix": "dogs_245"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_245_jpg.rf.4bd07b64d01c3c0837e95a4256bb8a81.jpg",
+        "label": 0,
+        "prefix": "dogs_245"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_052_jpg.rf.3084d8076b3a95cfa477f0b871bc4880.jpg",
+        "label": 0,
+        "prefix": "dogs_052"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_052_jpg.rf.340c4d955659dbe83cc28d8012ff6c56.jpg",
+        "label": 0,
+        "prefix": "dogs_052"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_052_jpg.rf.04aa4a9a5545109e0f888f1f1c336dd3.jpg",
+        "label": 0,
+        "prefix": "dogs_052"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_043_jpg.rf.35e3ab39ef34b7808a3c6888db9f0963.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_043"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_043_jpg.rf.45095770d192f760f0807861bcbdaceb.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_043"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_043_jpg.rf.714cb0b3d61682281b24de482d51d503.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_043"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic46_jpg.rf.9d8d9647c5037d1f9638a3bc4dc4c074.jpg",
+        "label": 0,
+        "prefix": "pic46"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\vet-skin-issues-s_1667594728-678x381_jpg.rf.5a4d945784d18b5cbaa6bbdbd0738517.jpg",
+        "label": 0,
+        "prefix": "vet-skin-issues-s_1667594728-678x381"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_014_jpg.rf.0bf839b93ec4555d8424494bf0fc3209.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_014"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_014_jpg.rf.ca0a3ca03c1de2aa49db0d6fa0d05f34.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_014"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_014_jpg.rf.dcd40805b369e00b063c664b0dc97650.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_014"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_029_jpg.rf.004ae9de03fc6114b127b11c1266fe7d.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_029"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_029_jpg.rf.37569bd0b15c21b2026fc66968bf92c2.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_029"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_028_jpg.rf.d545c8428abeb975305a563fab29b817.jpg",
+        "label": 0,
+        "prefix": "dogs_028"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_028_jpg.rf.132b349f779744676395cacdb440991d.jpg",
+        "label": 0,
+        "prefix": "dogs_028"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_028_jpg.rf.8ccb5c8abc03765229d55779dbf1c464.jpg",
+        "label": 0,
+        "prefix": "dogs_028"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\46_jpg.rf.f6da983b5c95e25282da43684789e5c6.jpg",
+        "label": 0,
+        "prefix": "46"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_054_jpg.rf.1df7c15aee03bd233e0faa672d62078e.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_054"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_054_jpg.rf.442ca2f07a7752f385f00f7d6554eefa.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_054"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_054_jpg.rf.85f1c36e5a13e0d1554affd71ea5fd34.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_054"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\05_jpg.rf.e4acfd96b020beac79db04fe1dd17490.jpg",
+        "label": 0,
+        "prefix": "05"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-2_jpg.rf.484b75e6a33f2708db339943f4e531c3.jpg",
+        "label": 0,
+        "prefix": "images-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_172_jpg.rf.32a7ffd3ff0e783bff2e023b55d7a211.jpg",
+        "label": 0,
+        "prefix": "dogs_172"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_172_jpg.rf.faab0e30907c38d9ece9a51f42d703f4.jpg",
+        "label": 0,
+        "prefix": "dogs_172"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_172_jpg.rf.429ac597985b0513806d934e8e24668f.jpg",
+        "label": 0,
+        "prefix": "dogs_172"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic54_jpg.rf.911eb2b6d4b5258a86fa55199c2851c7.jpg",
+        "label": 0,
+        "prefix": "pic54"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-8_jpg.rf.75905cbfef723b25864d2077fa2cffa0.jpg",
+        "label": 0,
+        "prefix": "images-8"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_003_jpg.rf.49a6ff4195ac497c3d5b03b2e2f7fc02.jpg",
+        "label": 0,
+        "prefix": "dogs_003"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_003_jpg.rf.4fbdd0fe529e5bc4d5066cce50696ec7.jpg",
+        "label": 0,
+        "prefix": "dogs_003"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_003_jpg.rf.c0a90539ee27d074ef096f53f859fe76.jpg",
+        "label": 0,
+        "prefix": "dogs_003"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-3_jpg.rf.74a62eba52b475a6374eb54d4699a1b4.jpg",
+        "label": 0,
+        "prefix": "images-3"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic36_jpg.rf.0922de0e9b78a1e2461388d724fbc539.jpg",
+        "label": 0,
+        "prefix": "pic36"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\images-18_jpg.rf.ab2c1a54f965c867953cfa42dd7ca9d7.jpg",
+        "label": 0,
+        "prefix": "images-18"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\heal-the-gut-to-heal-the-skin-642781_1024x_jpg.rf.fcfab9a439f7509db54a9ed4bb5cac80.jpg",
+        "label": 0,
+        "prefix": "heal-the-gut-to-heal-the-skin-642781_1024x"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-48_jpg.rf.33b030a452925ec8309b7be5272e257b.jpg",
+        "label": 0,
+        "prefix": "images-48"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_1_jpg.rf.d4c2aa5839ebb34d193d9e1c0ee3f254.jpg",
+        "label": 0,
+        "prefix": "Image_1"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_1_jpg.rf.8f39858cc077ae4c7f5ea8d8cf681d53.jpg",
+        "label": 0,
+        "prefix": "Image_1"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_1_jpg.rf.f444e810b2e287559988dcdfcd05e6e7.jpg",
+        "label": 0,
+        "prefix": "Image_1"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\images-45_jpg.rf.5aa7abf8514e42d35580b368597279e9.jpg",
+        "label": 0,
+        "prefix": "images-45"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_139_jpg.rf.a3bcb9912e40ebb2b27b275316c28fac.jpg",
+        "label": 0,
+        "prefix": "dogs_139"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_139_jpg.rf.fb38db3267a958aa382fcdafafa7e1b0.jpg",
+        "label": 0,
+        "prefix": "dogs_139"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_139_jpg.rf.99ce8e566d83434f8bf1e8c55bf525ad.jpg",
+        "label": 0,
+        "prefix": "dogs_139"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic34_jpg.rf.91d19e14241ccaf414cdb5190ae69e18.jpg",
+        "label": 0,
+        "prefix": "pic34"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_029_jpg.rf.600e3e9567ed16a438ae10fd088ea074.jpg",
+        "label": 0,
+        "prefix": "dogs_029"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_029_jpg.rf.bead7da8a8eb6e9cec09f227283778d6.jpg",
+        "label": 0,
+        "prefix": "dogs_029"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_029_jpg.rf.edfcc1fbd322324f26466656853335a8.jpg",
+        "label": 0,
+        "prefix": "dogs_029"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_20_jpg.rf.6a45e712436afb3c1282fee8a734ff92.jpg",
+        "label": 0,
+        "prefix": "Image_20"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_20_jpg.rf.87b28e69485c2c214be188c40097b86c.jpg",
+        "label": 0,
+        "prefix": "Image_20"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_082_jpg.rf.2641e9074ab43dae48bb90dad3ecc58d.jpg",
+        "label": 0,
+        "prefix": "dogs_082"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_082_jpg.rf.6d81559aab69a8d14904054f2d8821d0.jpg",
+        "label": 0,
+        "prefix": "dogs_082"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_082_jpg.rf.d92adca3fc82f5333ccdca3e096e7f5a.jpg",
+        "label": 0,
+        "prefix": "dogs_082"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_025_jpg.rf.28ace147755548f0900939dcddc8b79d.jpg",
+        "label": 0,
+        "prefix": "dogs_025"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_025_jpg.rf.5e44be4e6ed567c481c7ea43408978b6.jpg",
+        "label": 0,
+        "prefix": "dogs_025"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_025_jpg.rf.8cd028c7260e0d874713112b9cf6b638.jpg",
+        "label": 0,
+        "prefix": "dogs_025"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\024_jpg.rf.885ac02235ce0a864c13becc96d76344.jpg",
+        "label": 0,
+        "prefix": "024"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_007_jpg.rf.1991b5e4bc527eadd4d149eb818f1ea5.jpg",
+        "label": 0,
+        "prefix": "dogs_007"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_007_jpg.rf.b9219a433d516a12113bb1fd4c3dd2dd.jpg",
+        "label": 0,
+        "prefix": "dogs_007"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_007_jpg.rf.d34956e3dbd3c5335ffdeeef5c41b8ae.jpg",
+        "label": 0,
+        "prefix": "dogs_007"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_018_jpg.rf.4882c2a7bc9d68d9ac856c98c08641c7.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_018"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_018_jpg.rf.bc0b13c21810da992140232a3042a32d.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_018"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_018_jpg.rf.4753719a40395e8ecdf213e785a3d960.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_018"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_151_jpg.rf.53a84308579a03381802834c51070c2c.jpg",
+        "label": 0,
+        "prefix": "dogs_151"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_151_jpg.rf.5b67e20b7b66c7b6b9acb0c1a521e236.jpg",
+        "label": 0,
+        "prefix": "dogs_151"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_151_jpg.rf.99d34930c97447fb79d45bfcc7c9faa5.jpg",
+        "label": 0,
+        "prefix": "dogs_151"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_14_jpg.rf.d6cf06b8edf683d688d15b747dfdc6b9.jpg",
+        "label": 0,
+        "prefix": "Image_14"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_14_jpg.rf.94d534a9ccc1d529bfe6f86f4ec802c3.jpg",
+        "label": 0,
+        "prefix": "Image_14"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic8_jpg.rf.3a6aa4f153cb1889b32b27fadaed70d5.jpg",
+        "label": 0,
+        "prefix": "pic8"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_019_jpg.rf.549b6b055839a650618afc821a235202.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_019"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_019_jpg.rf.da72a4e58109de4ae6c56926c81630fb.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_019"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_019_jpg.rf.1153b03fccc2209f6a0a6ad828253514.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_019"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\pic18_jpg.rf.f9949e85fa48aebd0af7d92ee515a07b.jpg",
+        "label": 0,
+        "prefix": "pic18"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\021_jpg.rf.9915cc4874f6a3b692deb9a7990ac4bf.jpg",
+        "label": 0,
+        "prefix": "021"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\mota-ru-cute-dog-1477384405_jpg.rf.a9b675506bd30852784c1dbea73bf9d3.jpg",
+        "label": 0,
+        "prefix": "mota-ru-cute-dog-1477384405"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\best-dog-food-for-skin-allergies-feature-2_jpg.rf.bfa6f4d3d76c0d77788ef3805db06d30.jpg",
+        "label": 0,
+        "prefix": "best-dog-food-for-skin-allergies-feature-2"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-25_jpg.rf.d475beba4e1d8b8a06ad07a71c212c0c.jpg",
+        "label": 0,
+        "prefix": "images-25"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\images-19_jpg.rf.16adea747bca665307505ddd97824d4a.jpg",
+        "label": 0,
+        "prefix": "images-19"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_22_jpg.rf.f334186044f84af06012617d535ee97a.jpg",
+        "label": 0,
+        "prefix": "Image_22"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_22_jpg.rf.ef0ab54e7b427d957f107dc9f4ca39f8.jpg",
+        "label": 0,
+        "prefix": "Image_22"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_22_jpg.rf.bd35a68f28506c451023ce4153ee961a.jpg",
+        "label": 0,
+        "prefix": "Image_22"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_001_jpg.rf.316a5b99cedba51cafb78a5653356d7e.jpg",
+        "label": 0,
+        "prefix": "dogs_001"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_001_jpg.rf.3be4884ec332c5262247f33c25e708c3.jpg",
+        "label": 0,
+        "prefix": "dogs_001"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_001_jpg.rf.ab68ddec1ce9315cb85524e38f918e76.jpg",
+        "label": 0,
+        "prefix": "dogs_001"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_179_jpg.rf.02184225da13515197081fa819c9512c.jpg",
+        "label": 0,
+        "prefix": "dogs_179"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_179_jpg.rf.6b0e0fce20042f31eca5168d9adb42cb.jpg",
+        "label": 0,
+        "prefix": "dogs_179"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_179_jpg.rf.4eaf46da364964056ca5187a2b2afe92.jpg",
+        "label": 0,
+        "prefix": "dogs_179"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_168_jpg.rf.178fa96034223bab04940d0cdb07a8e2.jpg",
+        "label": 0,
+        "prefix": "dogs_168"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_168_jpg.rf.3fe33d8fce32191604cb2734aa8027dc.jpg",
+        "label": 0,
+        "prefix": "dogs_168"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_168_jpg.rf.cebd5974a33777e135fe8982fccb1e66.jpg",
+        "label": 0,
+        "prefix": "dogs_168"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_055_jpg.rf.4f322a9e55926029b7136c7e55de0455.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_055"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_055_jpg.rf.910ae1877e951e138131ee9944166b8e.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_055"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_055_jpg.rf.f1bd033bf5b9222172330c1854be791b.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_055"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_27_jpg.rf.e0c81e48068ca707a89f22b15499fa96.jpg",
+        "label": 0,
+        "prefix": "Image_27"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_27_jpg.rf.d6cf023317f97c6f4e920e42791c8ebf.jpg",
+        "label": 0,
+        "prefix": "Image_27"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_27_jpg.rf.f7d749c597233a54e0e183dec5c67b46.jpg",
+        "label": 0,
+        "prefix": "Image_27"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\16_jpg.rf.e47b057e1f126a45b3a5f072da05a1ad.jpg",
+        "label": 0,
+        "prefix": "16"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-3_jpg.rf.327eec504689bb98faf8723f2e9733e8.jpg",
+        "label": 1,
+        "prefix": "-3"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-3_jpg.rf.4584e0a723ef7469dccd31660aff59aa.jpg",
+        "label": 1,
+        "prefix": "-3"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-3_jpg.rf.59c77c8c124e262e01ebbec67e994959.jpg",
+        "label": 1,
+        "prefix": "-3"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-3_jpg.rf.9796096a964093018ebd44e47ecae04b.jpg",
+        "label": 1,
+        "prefix": "-3"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-3_jpg.rf.a274c446894ae8d9bae691d304f68999.jpg",
+        "label": 1,
+        "prefix": "-3"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\-3_jpg.rf.ad51c415156cf6e2673b90bd07e0108d.jpg",
+        "label": 1,
+        "prefix": "-3"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\-3_jpg.rf.49f44c7fb8a0ff43f74466e27267e443.jpg",
+        "label": 1,
+        "prefix": "-3"
+      },
+      {
+        "path": "Major\\injuries\\valid\\injuries\\0282eae46f6d473ab1ef481ca4148105_jpg.rf.2858e55cb68841d2acc906025c6eb9a2.jpg",
+        "label": 1,
+        "prefix": "0282eae46f6d473ab1ef481ca4148105"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\165630613_10158343071952198_6140509686028906241_n_jpg.rf.1ab7553170d8e32fe5e54faea0f5d8d6.jpg",
+        "label": 1,
+        "prefix": "165630613_10158343071952198_6140509686028906241_n"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\165630613_10158343071952198_6140509686028906241_n_jpg.rf.8d0e3b8b26ed5b665b04c74863899b2e.jpg",
+        "label": 1,
+        "prefix": "165630613_10158343071952198_6140509686028906241_n"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\165630613_10158343071952198_6140509686028906241_n_jpg.rf.cc1b6f39990adb0c7ef13041937bf64a.jpg",
+        "label": 1,
+        "prefix": "165630613_10158343071952198_6140509686028906241_n"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-3-_png.rf.98dd1e26e9dd78764cf09b64cec7c981.jpg",
+        "label": 1,
+        "prefix": "cat-3-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-3-_png.rf.b01d6f661918d2b2215dac31e7db7bff.jpg",
+        "label": 1,
+        "prefix": "cat-3-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-3-_png.rf.c072cc1399a86deac4f6413054ef3384.jpg",
+        "label": 1,
+        "prefix": "cat-3-"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\R3_jpg.rf.435266c71aa53169af00a844e2e3ccaf.jpg",
+        "label": 1,
+        "prefix": "R3"
+      }
+    ],
+    "test": [
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_053_jpg.rf.01ce0eba677bd08f4451df8d3df24dbc.jpg",
+        "label": 0,
+        "prefix": "dogs_053"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_053_jpg.rf.750a008ca0417acfb65e8f2dfdec4672.jpg",
+        "label": 0,
+        "prefix": "dogs_053"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_053_jpg.rf.ac7e6a1baa2ed4e33971b47a6c4d4533.jpg",
+        "label": 0,
+        "prefix": "dogs_053"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_074_jpg.rf.735a5b23553b3a30be366fdda6250b45.jpg",
+        "label": 0,
+        "prefix": "dogs_074"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_074_jpg.rf.04e61fc72e4f80ae3484b550cc4f0d6e.jpg",
+        "label": 0,
+        "prefix": "dogs_074"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_074_jpg.rf.119e5ed7aa4af6e2871d02647d6a121d.jpg",
+        "label": 0,
+        "prefix": "dogs_074"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_039_jpg.rf.4229ec7f88d6be14f7a89d5b355de7b7.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_039"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_039_jpg.rf.6ec5d9720275ea3822fd8d8d6d86aab4.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_039"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_039_jpg.rf.c6ccf0ace799b4da58d063c88172f952.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_039"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_105_jpg.rf.7ce081ef02d3e5f7fe521297c39cdec3.jpg",
+        "label": 0,
+        "prefix": "dogs_105"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_105_jpg.rf.d6425d3dfe43cdca7bf3001e564fedd0.jpg",
+        "label": 0,
+        "prefix": "dogs_105"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_105_jpg.rf.ea0cab56c2ff1a84743c481404cd7571.jpg",
+        "label": 0,
+        "prefix": "dogs_105"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_278_jpg.rf.a075038c0fb5e72f65b4ac8f4911b312.jpg",
+        "label": 0,
+        "prefix": "dogs_278"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_278_jpg.rf.1532ef5c9169730ae9c8cec9fb92b72a.jpg",
+        "label": 0,
+        "prefix": "dogs_278"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_278_jpg.rf.7ec294993bdda0bb66dff0876675d4e9.jpg",
+        "label": 0,
+        "prefix": "dogs_278"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\images-24_jpg.rf.08f4e96d0253a9fc5216c2816a90f4a0.jpg",
+        "label": 0,
+        "prefix": "images-24"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic30_jpg.rf.bf1ad941ce0f4892f4b8fa268284402f.jpg",
+        "label": 0,
+        "prefix": "pic30"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_002_jpg.rf.33755169a2489359a6a8d659f0a7b417.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_002"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_002_jpg.rf.d776e87db93e768d05c1aff53f074f97.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_002"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_002_jpg.rf.d7faf01493cf8842485432bc5b8bb3d2.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_002"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic45_jpg.rf.c596c4b32fa2e5883fbc9f7afb368c1a.jpg",
+        "label": 0,
+        "prefix": "pic45"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_058_jpg.rf.ae8ad8ea7dddb0c264ee3f03a2234206.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_058"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_058_jpg.rf.11701dfb477adba58da03ceae5476476.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_058"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_058_jpg.rf.4753e1a3ece86975ab195107b8b6c3c7.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_058"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_038_jpg.rf.3d72801b94fd781e21c998ce2332f542.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_038"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_038_jpg.rf.5441ce03e008a355e101b7e2ae980acd.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_038"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_038_jpg.rf.c4a72222528b2ecaa3d4fcdb4ffb26aa.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_038"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_021_jpg.rf.06b29674b3f313b0119bba85bd98a651.jpg",
+        "label": 0,
+        "prefix": "dogs_021"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_021_jpg.rf.b7bed49a4ade7cb43d560887d802bbbe.jpg",
+        "label": 0,
+        "prefix": "dogs_021"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_021_jpg.rf.f1b30730b70ca2eefeba245fe0e590ba.jpg",
+        "label": 0,
+        "prefix": "dogs_021"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_048_jpg.rf.562e658ca98ad8c4392b8d1cb265dfde.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_048"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_048_jpg.rf.d301605907fc0da9e1f8d8ce6d36903a.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_048"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_048_jpg.rf.7ffbae0f1437672e070750a34e73236d.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_048"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_015_jpg.rf.a031cd225fd50ebdd20b8ba770fdb5b5.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_015"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_015_jpg.rf.d80ffff106ed3c939751f3a54fd4dfd7.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_015"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_015_jpg.rf.7da3c9911e241224aa456c35d5bc674f.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_015"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_211_jpg.rf.8b10d2744b02d3b54d2d1ecd031422cd.jpg",
+        "label": 0,
+        "prefix": "dogs_211"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_211_jpg.rf.0743a08e8e942c1b9a6c1ec57bec390c.jpg",
+        "label": 0,
+        "prefix": "dogs_211"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_211_jpg.rf.a3c6aa6d8d70dee72b8c1a719881b200.jpg",
+        "label": 0,
+        "prefix": "dogs_211"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_099_jpg.rf.c0bf77292972351430bc1b8cc4b1e5b5.jpg",
+        "label": 0,
+        "prefix": "dogs_099"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_099_jpg.rf.c8a861a5567717c115ce38fd2ba40114.jpg",
+        "label": 0,
+        "prefix": "dogs_099"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_099_jpg.rf.d2f333f0ec7b9a6af8651c670698efe1.jpg",
+        "label": 0,
+        "prefix": "dogs_099"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_164_jpg.rf.5f8481a7fdd674659112ef5de9c15ecb.jpg",
+        "label": 0,
+        "prefix": "dogs_164"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_164_jpg.rf.a0bf80b9d1177817a1d9e1ab7c9bb284.jpg",
+        "label": 0,
+        "prefix": "dogs_164"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_164_jpg.rf.dfe174f25e91f69f5debd83b871e4cec.jpg",
+        "label": 0,
+        "prefix": "dogs_164"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_052_jpg.rf.1f5c67512a87c561b1cfd0e5a4b61fcf.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_052"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_052_jpg.rf.87f56da5e1ed51174f57bb67cc7b1b26.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_052"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_052_jpg.rf.b22fd22f90d070cf0c1cb1cf54f0e6cc.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_052"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic4_jpg.rf.dcd1badaf45275bb22373b2d4c78ad3d.jpg",
+        "label": 0,
+        "prefix": "pic4"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_049_jpeg_jpg.rf.83a10948ed1ddd30996b9656f8b9e26f.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_049_jpeg"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_049_jpeg_jpg.rf.bf5468721f635180ed298d0456a57b22.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_049_jpeg"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_049_jpeg_jpg.rf.c90c953f295811b263c06075e4193e40.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_049_jpeg"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_026_jpg.rf.8eb7c6ee28b9eb1196fc0f2d86ab3115.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_026"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_026_jpg.rf.a2ca40bd2974c6c6a38d7c23ba755476.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_026"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_026_jpg.rf.bd1537b78565c3f814e68399e94fa797.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_026"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_124_jpg.rf.0d032ad60cf5804fb03cfe3b4428a071.jpg",
+        "label": 0,
+        "prefix": "dogs_124"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_124_jpg.rf.3fb24583108ca5a391f535c222b3ab79.jpg",
+        "label": 0,
+        "prefix": "dogs_124"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_124_jpg.rf.bbc98be950708fa3e45a9e6261a63b6f.jpg",
+        "label": 0,
+        "prefix": "dogs_124"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_112_jpg.rf.773e7a9e0c17c5f24dd07da48d4d5692.jpg",
+        "label": 0,
+        "prefix": "dogs_112"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_112_jpg.rf.bdef3b5beb13cb060df797adf0e976ee.jpg",
+        "label": 0,
+        "prefix": "dogs_112"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_112_jpg.rf.cdc2f406623b62c39f5a155e19406f52.jpg",
+        "label": 0,
+        "prefix": "dogs_112"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_148_jpg.rf.444403b6bc70ff2f6b80ee43d1053822.jpg",
+        "label": 0,
+        "prefix": "dogs_148"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_148_jpg.rf.ccf2551296608a34a7d0da9ff89ab5f0.jpg",
+        "label": 0,
+        "prefix": "dogs_148"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_148_jpg.rf.f3bd67ac8a9ed80aeb692d90c01852a4.jpg",
+        "label": 0,
+        "prefix": "dogs_148"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_045_jpg.rf.3d509bd2d05e993cbc131196bee7a14f.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_045"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_045_jpg.rf.491c04515519b12e39641e96e366be08.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_045"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\HEALTHY_045_jpg.rf.126734692106a0c50e81b707e50490fe.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_045"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_276_jpg.rf.2839f26399b254006848783f420a0f66.jpg",
+        "label": 0,
+        "prefix": "dogs_276"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_276_jpg.rf.da42c50e02a8742af4003ed4e0e52bef.jpg",
+        "label": 0,
+        "prefix": "dogs_276"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_134_jpg.rf.35ed6e38447aadb646c34f105ea48a8c.jpg",
+        "label": 0,
+        "prefix": "dogs_134"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_134_jpg.rf.9f09bc1781a954cfb76a78536b6bdd5f.jpg",
+        "label": 0,
+        "prefix": "dogs_134"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_134_jpg.rf.5bfc56007d4c131d65aa20f2dff9b8b4.jpg",
+        "label": 0,
+        "prefix": "dogs_134"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic11_jpg.rf.3beedc1a3e0ef3d64d1de990897ec0b2.jpg",
+        "label": 0,
+        "prefix": "pic11"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_153_jpg.rf.16c8a18e3972660dfb61f58130624eee.jpg",
+        "label": 0,
+        "prefix": "dogs_153"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_153_jpg.rf.1a32eb15f0fbf983d5fc92d9b82c9218.jpg",
+        "label": 0,
+        "prefix": "dogs_153"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_153_jpg.rf.20e52203742274ccd6bf2582eaee92c9.jpg",
+        "label": 0,
+        "prefix": "dogs_153"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic13_jpg.rf.ed94d4b10e451e6481b56dff85194662.jpg",
+        "label": 0,
+        "prefix": "pic13"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic66_jpg.rf.52be3c7161e0364f41da849c707480d0.jpg",
+        "label": 0,
+        "prefix": "pic66"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\26_jpg.rf.f16e845b0a00d04dca0434116d76281c.jpg",
+        "label": 0,
+        "prefix": "26"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_045_jpg.rf.038046a65dfdf91d75753bbc6041db82.jpg",
+        "label": 0,
+        "prefix": "dogs_045"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_045_jpg.rf.2c690b4904b2a689c45444f784e081f0.jpg",
+        "label": 0,
+        "prefix": "dogs_045"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_016_jpg.rf.85283584e876dea1c85a99a5d8b7461b.jpg",
+        "label": 0,
+        "prefix": "dogs_016"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_016_jpg.rf.87da0d7de1e546a5cdb0894583cdca67.jpg",
+        "label": 0,
+        "prefix": "dogs_016"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_016_jpg.rf.8ec3d8f71774ce9cda349b2771417a8f.jpg",
+        "label": 0,
+        "prefix": "dogs_016"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic0_jpg.rf.7787977a1ae6a122fe5a72664e7985c2.jpg",
+        "label": 0,
+        "prefix": "pic0"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-40_jpg.rf.4a93fac1b3bfce009cfec0f43a37806e.jpg",
+        "label": 0,
+        "prefix": "images-40"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic38_jpg.rf.fcc1748afa4f28880d4dc42f1cd48d22.jpg",
+        "label": 0,
+        "prefix": "pic38"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\082_jpg.rf.b6914e657357ac23c2f619e3a06c67f4.jpg",
+        "label": 0,
+        "prefix": "082"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_034_jpg.rf.54d856394d85dc34b1f34b6c00167ed7.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_034"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_034_jpg.rf.ac6f402da6b46949aca0db4e5af80655.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_034"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_236_jpg.rf.2fc45a11d8d1a1377e5cef6774015558.jpg",
+        "label": 0,
+        "prefix": "dogs_236"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_236_jpg.rf.eac686451f43d75c0ab5847d861a3f79.jpg",
+        "label": 0,
+        "prefix": "dogs_236"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_236_jpg.rf.c6de3497f8028132d416a810d51c021c.jpg",
+        "label": 0,
+        "prefix": "dogs_236"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-28_jpg.rf.8538206b735d09673db7f474949c9945.jpg",
+        "label": 0,
+        "prefix": "images-28"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_041_jpg.rf.886da56b2e76922b396ba29d46f385b6.jpg",
+        "label": 0,
+        "prefix": "dogs_041"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_041_jpg.rf.1b26300c8a13838b90dbe655ea80a73d.jpg",
+        "label": 0,
+        "prefix": "dogs_041"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\dogs_041_jpg.rf.8bfb7815fb94236dd1db7fc87958a7c1.jpg",
+        "label": 0,
+        "prefix": "dogs_041"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\80-2-_jpg.rf.198a2855be1ebf6d5fc81a505e09520e.jpg",
+        "label": 0,
+        "prefix": "80-2-"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\images-33_jpg.rf.98151bb03144fa1d81422e56a7ec7745.jpg",
+        "label": 0,
+        "prefix": "images-33"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_265_jpg.rf.870d41884fb403b97a8de6e608930149.jpg",
+        "label": 0,
+        "prefix": "dogs_265"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_265_jpg.rf.4074519fcc2b860102447e5af270bfe5.jpg",
+        "label": 0,
+        "prefix": "dogs_265"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\dogs_265_jpg.rf.ac7979b96bf0861f549ace70173a1188.jpg",
+        "label": 0,
+        "prefix": "dogs_265"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\077_jpg.rf.312c813c59e1ff6199d661b0303ac343.jpg",
+        "label": 0,
+        "prefix": "077"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_084_jpg.rf.2fcc85bf9d54b7eeca5190b0e904037f.jpg",
+        "label": 0,
+        "prefix": "dogs_084"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_084_jpg.rf.3aa164747f4942efc63b28d43a102f34.jpg",
+        "label": 0,
+        "prefix": "dogs_084"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_084_jpg.rf.8091ecac65c89d1d86d73668a3c5409f.jpg",
+        "label": 0,
+        "prefix": "dogs_084"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_18_jpg.rf.114f3b272c34313c513e08a02dc9e295.jpg",
+        "label": 0,
+        "prefix": "Image_18"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_18_jpg.rf.237a8c178457176802cd8f01dcd69a5c.jpg",
+        "label": 0,
+        "prefix": "Image_18"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_18_jpg.rf.cdf48917b0e5b01426d37ba5f0786c1f.jpg",
+        "label": 0,
+        "prefix": "Image_18"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\Image_18_jpg.rf.ce056692b7b00c8fdfe99baf5bc6a5fb.jpg",
+        "label": 0,
+        "prefix": "Image_18"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\Image_18_jpg.rf.c64dd20eb93bd0404b10bdb78d7947d4.jpg",
+        "label": 0,
+        "prefix": "Image_18"
+      },
+      {
+        "path": "Major\\injuries\\test\\Healthy\\Image_18_jpg.rf.2c15eba42b1ea5832dc53637999aae56.jpg",
+        "label": 0,
+        "prefix": "Image_18"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_125_jpg.rf.17692d25f410c040a31a45d0f4c3ef35.jpg",
+        "label": 0,
+        "prefix": "dogs_125"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_125_jpg.rf.7e835d24db5ea090f93ca3b03fa323fc.jpg",
+        "label": 0,
+        "prefix": "dogs_125"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\dogs_125_jpg.rf.9b095f9bf4996d641c077d8a084071df.jpg",
+        "label": 0,
+        "prefix": "dogs_125"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\53_jpg.rf.b496bc4c831b45c9082635fd174c9c09.jpg",
+        "label": 0,
+        "prefix": "53"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\pic1_jpg.rf.38aec403ca783e402e0d75b8632c9b60.jpg",
+        "label": 0,
+        "prefix": "pic1"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_037_jpg.rf.44bddbfb317110008b5ec47c2ba2b514.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_037"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_037_jpg.rf.d97b6f2edcbc7c9b6f8c8be98dd88d8a.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_037"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_037_jpg.rf.05943fb77cb3508ecbff8be5d239dce4.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_037"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\images-53_jpg.rf.533750e17f03da385e91928f44727c0d.jpg",
+        "label": 0,
+        "prefix": "images-53"
+      },
+      {
+        "path": "Major\\injuries\\train\\Healthy\\HEALTHY_023_jpg.rf.a92c48ee15d85a8be7f81fcfa39b808c.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_023"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_023_jpg.rf.1b4b9d3b08cf2d663444ed1dd0f17525.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_023"
+      },
+      {
+        "path": "Major\\injuries\\valid\\Healthy\\HEALTHY_023_jpg.rf.f1fc0308766a7f0b392772fc2f5531fd.jpg",
+        "label": 0,
+        "prefix": "HEALTHY_023"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\d145717_jpg.rf.78a61c5fc6547e05051199a6ec1eb4c8.jpg",
+        "label": 1,
+        "prefix": "d145717"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\d145717_jpg.rf.8964cb5c638a8f9ca76d5e333d2c656c.jpg",
+        "label": 1,
+        "prefix": "d145717"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\d145717_jpg.rf.d07c684c11c90572a3a2718e36feac85.jpg",
+        "label": 1,
+        "prefix": "d145717"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-4-_png.rf.3f3c7d34e1edc27110a90d4826aef9ec.jpg",
+        "label": 1,
+        "prefix": "cat-4-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-4-_png.rf.670d856882a3b8f8a46e01908040a04b.jpg",
+        "label": 1,
+        "prefix": "cat-4-"
+      },
+      {
+        "path": "Major\\injuries\\train\\injuries\\cat-4-_png.rf.d91535f9ccfa21dd50c758de8912b9a6.jpg",
+        "label": 1,
+        "prefix": "cat-4-"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\cat-5-_png.rf.2d0e03b4bab14db78d4c8914cbc45140.jpg",
+        "label": 1,
+        "prefix": "cat-5-"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\0-1-_jpg.rf.cb67498b36799aebd681535bbd962522.jpg",
+        "label": 1,
+        "prefix": "0-1-"
+      },
+      {
+        "path": "Major\\injuries\\test\\injuries\\1653319072_jpeg.rf.0089227ca8d3a0ba1a804775d8ecd480.jpg",
+        "label": 1,
+        "prefix": "1653319072"
+      }
+    ]
+  },
+  "audit": {
+    "train_val_overlap_count": 0,
+    "train_test_overlap_count": 0,
+    "val_test_overlap_count": 0
+  }
+}
